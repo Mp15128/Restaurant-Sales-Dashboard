@@ -1,0 +1,1001 @@
+OrderID,Date,CustomerID,City,Category,ItemName,Quantity,Price,Total,Payment,OrderType,Rating
+1001,2026-01-01,C125,New York,Dessert,Apple Pie,4,6,24,UPI,Delivery,4
+1002,2026-01-01,C587,San Jose,Dessert,Apple Pie,2,6,12,Card,Delivery,5
+1003,2026-01-01,C438,Houston,Pizza,Pepperoni Pizza,3,18,54,UPI,Takeaway,5
+1004,2026-01-02,C212,Philadelphia,Dessert,Chocolate Lava Cake,4,8,32,Card,Delivery,3
+1005,2026-01-02,C388,Houston,Pizza,BBQ Chicken Pizza,3,19,57,Cash,Delivery,4
+1006,2026-01-02,C349,San Jose,Drinks & Sides,Coca Cola,4,3,12,Cash,Takeaway,5
+1007,2026-01-03,C527,Houston,Pizza,Veggie Supreme Pizza,1,17,17,UPI,Delivery,4
+1008,2026-01-03,C285,San Jose,Drinks & Sides,Iced Tea,2,3,6,UPI,Takeaway,3
+1009,2026-01-03,C236,San Diego,Pizza,Veggie Supreme Pizza,1,17,17,Card,Dine In,4
+1010,2026-01-04,C481,Dallas,Drinks & Sides,Iced Tea,4,3,12,Card,Takeaway,3
+1011,2026-01-04,C522,Houston,Drinks & Sides,Coca Cola,4,3,12,UPI,Dine In,5
+1012,2026-01-05,C550,Chicago,Drinks & Sides,Garlic Bread,3,6,18,UPI,Takeaway,4
+1013,2026-01-05,C104,San Diego,Drinks & Sides,Coca Cola,3,3,9,Card,Takeaway,3
+1014,2026-01-05,C156,Los Angeles,Drinks & Sides,Chicken Wings,3,9,27,Card,Takeaway,5
+1015,2026-01-06,C266,San Diego,Drinks & Sides,Coca Cola,4,3,12,UPI,Delivery,4
+1016,2026-01-06,C559,Philadelphia,Pizza,BBQ Chicken Pizza,1,19,19,Cash,Takeaway,5
+1017,2026-01-06,C178,Chicago,Pizza,Veggie Supreme Pizza,1,17,17,Card,Delivery,4
+1018,2026-01-07,C136,Houston,Dessert,Apple Pie,4,6,24,Cash,Dine In,4
+1019,2026-01-07,C491,Dallas,Drinks & Sides,Chicken Wings,4,9,36,Cash,Delivery,5
+1020,2026-01-07,C166,San Jose,Dessert,Chocolate Lava Cake,1,8,8,Cash,Dine In,4
+1021,2026-01-08,C397,San Diego,Pizza,Margherita Pizza,1,15,15,Card,Dine In,5
+1022,2026-01-08,C231,Dallas,Pizza,BBQ Chicken Pizza,2,19,38,Cash,Delivery,4
+1023,2026-01-09,C583,Los Angeles,Drinks & Sides,Chicken Wings,2,9,18,Cash,Dine In,4
+1024,2026-01-09,C376,Dallas,Drinks & Sides,Garlic Bread,1,6,6,Cash,Delivery,4
+1025,2026-01-09,C273,Phoenix,Pizza,Margherita Pizza,3,15,45,Cash,Takeaway,4
+1026,2026-01-10,C537,San Diego,Drinks & Sides,Chicken Wings,1,9,9,Cash,Delivery,4
+1027,2026-01-10,C333,Phoenix,Pizza,Pepperoni Pizza,3,18,54,Card,Delivery,4
+1028,2026-01-10,C118,San Antonio,Drinks & Sides,Iced Tea,2,3,6,Cash,Dine In,1
+1029,2026-01-11,C471,San Antonio,Drinks & Sides,Mozzarella Sticks,4,7,28,Cash,Dine In,3
+1030,2026-01-11,C422,San Jose,Pizza,BBQ Chicken Pizza,1,19,19,UPI,Dine In,3
+1031,2026-01-11,C336,San Diego,Drinks & Sides,Coca Cola,2,3,6,Cash,Delivery,5
+1032,2026-01-12,C567,Philadelphia,Drinks & Sides,Mozzarella Sticks,4,7,28,Card,Takeaway,5
+1033,2026-01-12,C553,Philadelphia,Drinks & Sides,Chicken Wings,1,9,9,UPI,Delivery,5
+1034,2026-01-13,C533,Dallas,Dessert,Apple Pie,4,6,24,Card,Dine In,4
+1035,2026-01-13,C106,New York,Pizza,Veggie Supreme Pizza,1,17,17,Cash,Delivery,5
+1036,2026-01-13,C306,San Antonio,Drinks & Sides,Coca Cola,2,3,6,UPI,Dine In,5
+1037,2026-01-14,C261,Dallas,Drinks & Sides,Chicken Wings,3,9,27,Card,Dine In,1
+1038,2026-01-14,C275,Phoenix,Drinks & Sides,Iced Tea,3,3,9,Card,Dine In,2
+1039,2026-01-14,C219,Dallas,Pizza,Veggie Supreme Pizza,1,17,17,Cash,Dine In,3
+1040,2026-01-15,C507,San Jose,Pizza,Margherita Pizza,2,15,30,UPI,Takeaway,2
+1041,2026-01-15,C209,Dallas,Dessert,Apple Pie,1,6,6,Card,Takeaway,5
+1042,2026-01-15,C133,San Jose,Dessert,Apple Pie,4,6,24,Cash,Delivery,3
+1043,2026-01-16,C171,Chicago,Dessert,Apple Pie,4,6,24,UPI,Dine In,4
+1044,2026-01-16,C197,San Antonio,Drinks & Sides,Iced Tea,1,3,3,Cash,Dine In,4
+1045,2026-01-17,C359,Houston,Dessert,Chocolate Lava Cake,3,8,24,Cash,Takeaway,5
+1046,2026-01-17,C562,New York,Drinks & Sides,Coca Cola,4,3,12,Cash,Delivery,4
+1047,2026-01-17,C570,Los Angeles,Drinks & Sides,Garlic Bread,4,6,24,UPI,Takeaway,4
+1048,2026-01-18,C176,Phoenix,Drinks & Sides,Coca Cola,2,3,6,UPI,Dine In,3
+1049,2026-01-18,C182,San Diego,Drinks & Sides,Mozzarella Sticks,4,7,28,UPI,Takeaway,2
+1050,2026-01-18,C488,San Diego,Drinks & Sides,Coca Cola,3,3,9,UPI,Dine In,5
+1051,2026-01-19,C226,San Diego,Pizza,Veggie Supreme Pizza,1,17,17,Cash,Takeaway,3
+1052,2026-01-19,C580,Phoenix,Drinks & Sides,Iced Tea,3,3,9,Cash,Delivery,4
+1053,2026-01-19,C450,Phoenix,Dessert,Chocolate Lava Cake,4,8,32,Card,Delivery,3
+1054,2026-01-20,C392,Los Angeles,Pizza,Margherita Pizza,1,15,15,Card,Delivery,5
+1055,2026-01-20,C104,New York,Dessert,Apple Pie,4,6,24,UPI,Delivery,5
+1056,2026-01-21,C263,Houston,Dessert,Chocolate Lava Cake,2,8,16,UPI,Takeaway,4
+1057,2026-01-21,C213,New York,Drinks & Sides,Iced Tea,2,3,6,UPI,Delivery,4
+1058,2026-01-21,C201,Houston,Pizza,Margherita Pizza,1,15,15,Card,Takeaway,5
+1059,2026-01-22,C503,San Diego,Drinks & Sides,Iced Tea,3,3,9,UPI,Delivery,5
+1060,2026-01-22,C214,Dallas,Dessert,Apple Pie,2,6,12,Cash,Takeaway,4
+1061,2026-01-22,C184,Phoenix,Pizza,Pepperoni Pizza,1,18,18,Cash,Takeaway,5
+1062,2026-01-23,C266,San Diego,Dessert,Chocolate Lava Cake,3,8,24,Card,Takeaway,5
+1063,2026-01-23,C495,Houston,Dessert,Chocolate Lava Cake,1,8,8,UPI,Dine In,4
+1064,2026-01-23,C338,Los Angeles,Dessert,Chocolate Lava Cake,3,8,24,UPI,Delivery,5
+1065,2026-01-24,C271,New York,Pizza,Margherita Pizza,2,15,30,UPI,Dine In,4
+1066,2026-01-24,C244,Houston,Drinks & Sides,Coca Cola,3,3,9,UPI,Dine In,4
+1067,2026-01-25,C135,San Jose,Drinks & Sides,Garlic Bread,1,6,6,Card,Delivery,5
+1068,2026-01-25,C442,New York,Drinks & Sides,Mozzarella Sticks,3,7,21,UPI,Dine In,5
+1069,2026-01-25,C171,Houston,Drinks & Sides,Iced Tea,1,3,3,Card,Delivery,5
+1070,2026-01-26,C539,San Antonio,Drinks & Sides,Chicken Wings,2,9,18,UPI,Takeaway,5
+1071,2026-01-26,C317,Phoenix,Pizza,BBQ Chicken Pizza,2,19,38,UPI,Takeaway,4
+1072,2026-01-26,C333,Los Angeles,Drinks & Sides,Iced Tea,3,3,9,Cash,Takeaway,2
+1073,2026-01-27,C505,Dallas,Pizza,Pepperoni Pizza,4,18,72,UPI,Delivery,4
+1074,2026-01-27,C163,Chicago,Drinks & Sides,Chicken Wings,2,9,18,Cash,Dine In,3
+1075,2026-01-27,C493,New York,Dessert,Chocolate Lava Cake,1,8,8,UPI,Delivery,5
+1076,2026-01-28,C492,New York,Dessert,Apple Pie,1,6,6,Card,Takeaway,5
+1077,2026-01-28,C597,Houston,Drinks & Sides,Garlic Bread,1,6,6,Cash,Takeaway,5
+1078,2026-01-29,C472,Los Angeles,Dessert,Apple Pie,3,6,18,UPI,Delivery,5
+1079,2026-01-29,C562,San Diego,Drinks & Sides,Chicken Wings,2,9,18,Cash,Takeaway,4
+1080,2026-01-29,C252,Houston,Dessert,Apple Pie,4,6,24,Cash,Dine In,5
+1081,2026-01-30,C348,Los Angeles,Drinks & Sides,Coca Cola,4,3,12,Cash,Delivery,4
+1082,2026-01-30,C304,San Jose,Drinks & Sides,Mozzarella Sticks,4,7,28,Cash,Takeaway,4
+1083,2026-01-30,C464,Houston,Pizza,Pepperoni Pizza,2,18,36,UPI,Delivery,2
+1084,2026-01-31,C351,San Antonio,Drinks & Sides,Mozzarella Sticks,3,7,21,Cash,Delivery,5
+1085,2026-01-31,C266,Los Angeles,Drinks & Sides,Chicken Wings,1,9,9,Cash,Takeaway,1
+1086,2026-01-31,C296,San Diego,Pizza,BBQ Chicken Pizza,4,19,76,UPI,Takeaway,5
+1087,2026-02-01,C332,San Diego,Drinks & Sides,Garlic Bread,1,6,6,UPI,Takeaway,3
+1088,2026-02-01,C159,New York,Drinks & Sides,Mozzarella Sticks,3,7,21,Card,Takeaway,4
+1089,2026-02-02,C191,Chicago,Drinks & Sides,Mozzarella Sticks,1,7,7,Card,Takeaway,4
+1090,2026-02-02,C125,Chicago,Drinks & Sides,Coca Cola,3,3,9,Card,Takeaway,4
+1091,2026-02-02,C424,Dallas,Dessert,Apple Pie,4,6,24,Cash,Dine In,3
+1092,2026-02-03,C421,New York,Drinks & Sides,Coca Cola,3,3,9,Cash,Delivery,4
+1093,2026-02-03,C584,Phoenix,Pizza,Margherita Pizza,3,15,45,UPI,Takeaway,4
+1094,2026-02-03,C188,San Jose,Dessert,Chocolate Lava Cake,2,8,16,Cash,Takeaway,4
+1095,2026-02-04,C497,San Antonio,Dessert,Apple Pie,2,6,12,UPI,Dine In,4
+1096,2026-02-04,C415,Houston,Pizza,Veggie Supreme Pizza,2,17,34,UPI,Takeaway,3
+1097,2026-02-04,C487,San Jose,Dessert,Chocolate Lava Cake,1,8,8,Cash,Dine In,4
+1098,2026-02-05,C411,Los Angeles,Dessert,Apple Pie,4,6,24,Card,Dine In,4
+1099,2026-02-05,C125,San Diego,Drinks & Sides,Garlic Bread,4,6,24,Cash,Dine In,4
+1100,2026-02-06,C150,Los Angeles,Dessert,Apple Pie,1,6,6,UPI,Delivery,5
+1101,2026-02-06,C323,Phoenix,Dessert,Apple Pie,1,6,6,Card,Takeaway,5
+1102,2026-02-06,C480,Phoenix,Drinks & Sides,Garlic Bread,4,6,24,Card,Dine In,4
+1103,2026-02-07,C188,New York,Drinks & Sides,Coca Cola,4,3,12,Card,Takeaway,4
+1104,2026-02-07,C314,Houston,Pizza,Veggie Supreme Pizza,2,17,34,Cash,Dine In,2
+1105,2026-02-07,C325,Philadelphia,Pizza,Margherita Pizza,3,15,45,UPI,Delivery,2
+1106,2026-02-08,C468,Chicago,Dessert,Apple Pie,3,6,18,Card,Takeaway,5
+1107,2026-02-08,C301,Phoenix,Drinks & Sides,Mozzarella Sticks,3,7,21,UPI,Delivery,5
+1108,2026-02-08,C259,Philadelphia,Pizza,BBQ Chicken Pizza,2,19,38,Card,Takeaway,4
+1109,2026-02-09,C221,Los Angeles,Drinks & Sides,Mozzarella Sticks,1,7,7,UPI,Takeaway,4
+1110,2026-02-09,C146,Houston,Pizza,BBQ Chicken Pizza,1,19,19,Card,Takeaway,5
+1111,2026-02-10,C379,Chicago,Drinks & Sides,Mozzarella Sticks,3,7,21,Cash,Dine In,3
+1112,2026-02-10,C578,Dallas,Dessert,Chocolate Lava Cake,3,8,24,UPI,Dine In,5
+1113,2026-02-10,C546,San Diego,Pizza,Veggie Supreme Pizza,3,17,51,UPI,Dine In,5
+1114,2026-02-11,C468,San Antonio,Drinks & Sides,Mozzarella Sticks,2,7,14,UPI,Takeaway,5
+1115,2026-02-11,C125,Dallas,Pizza,BBQ Chicken Pizza,1,19,19,UPI,Delivery,5
+1116,2026-02-11,C161,Dallas,Pizza,BBQ Chicken Pizza,1,19,19,Cash,Delivery,5
+1117,2026-02-12,C474,San Diego,Drinks & Sides,Chicken Wings,3,9,27,Cash,Dine In,5
+1118,2026-02-12,C518,Phoenix,Drinks & Sides,Garlic Bread,3,6,18,UPI,Delivery,5
+1119,2026-02-12,C203,Dallas,Dessert,Apple Pie,1,6,6,Card,Delivery,4
+1120,2026-02-13,C283,San Jose,Dessert,Chocolate Lava Cake,2,8,16,UPI,Dine In,3
+1121,2026-02-13,C182,San Diego,Drinks & Sides,Chicken Wings,2,9,18,UPI,Dine In,5
+1122,2026-02-14,C313,Houston,Dessert,Chocolate Lava Cake,1,8,8,Card,Delivery,3
+1123,2026-02-14,C216,Philadelphia,Pizza,BBQ Chicken Pizza,4,19,76,UPI,Delivery,2
+1124,2026-02-14,C155,Los Angeles,Pizza,BBQ Chicken Pizza,1,19,19,UPI,Delivery,4
+1125,2026-02-15,C469,San Diego,Drinks & Sides,Coca Cola,1,3,3,UPI,Takeaway,3
+1126,2026-02-15,C506,San Diego,Drinks & Sides,Chicken Wings,3,9,27,Cash,Dine In,4
+1127,2026-02-15,C216,San Antonio,Drinks & Sides,Mozzarella Sticks,3,7,21,Cash,Dine In,4
+1128,2026-02-16,C335,Dallas,Drinks & Sides,Garlic Bread,2,6,12,UPI,Dine In,2
+1129,2026-02-16,C262,Philadelphia,Drinks & Sides,Garlic Bread,1,6,6,UPI,Dine In,4
+1130,2026-02-16,C387,Los Angeles,Pizza,BBQ Chicken Pizza,4,19,76,UPI,Delivery,4
+1131,2026-02-17,C101,San Antonio,Drinks & Sides,Mozzarella Sticks,4,7,28,UPI,Takeaway,4
+1132,2026-02-17,C276,Chicago,Drinks & Sides,Garlic Bread,4,6,24,Cash,Delivery,4
+1133,2026-02-18,C189,Phoenix,Drinks & Sides,Coca Cola,2,3,6,Cash,Takeaway,5
+1134,2026-02-18,C204,Los Angeles,Dessert,Chocolate Lava Cake,1,8,8,Cash,Takeaway,5
+1135,2026-02-18,C113,San Diego,Drinks & Sides,Coca Cola,2,3,6,UPI,Takeaway,4
+1136,2026-02-19,C129,Phoenix,Drinks & Sides,Garlic Bread,2,6,12,Cash,Dine In,3
+1137,2026-02-19,C118,Los Angeles,Drinks & Sides,Iced Tea,3,3,9,UPI,Dine In,4
+1138,2026-02-19,C516,Chicago,Pizza,Pepperoni Pizza,3,18,54,UPI,Dine In,4
+1139,2026-02-20,C102,Chicago,Pizza,Margherita Pizza,2,15,30,UPI,Takeaway,4
+1140,2026-02-20,C579,Dallas,Drinks & Sides,Coca Cola,1,3,3,Cash,Delivery,4
+1141,2026-02-20,C473,San Jose,Pizza,Veggie Supreme Pizza,2,17,34,Cash,Takeaway,5
+1142,2026-02-21,C450,Philadelphia,Pizza,Margherita Pizza,2,15,30,UPI,Dine In,4
+1143,2026-02-21,C179,San Jose,Dessert,Apple Pie,4,6,24,Card,Delivery,5
+1144,2026-02-22,C395,Chicago,Drinks & Sides,Mozzarella Sticks,2,7,14,Cash,Delivery,4
+1145,2026-02-22,C148,San Antonio,Pizza,BBQ Chicken Pizza,1,19,19,Cash,Delivery,5
+1146,2026-02-22,C373,San Jose,Drinks & Sides,Mozzarella Sticks,3,7,21,Card,Takeaway,5
+1147,2026-02-23,C574,Chicago,Drinks & Sides,Chicken Wings,2,9,18,UPI,Dine In,5
+1148,2026-02-23,C126,Houston,Pizza,BBQ Chicken Pizza,1,19,19,Cash,Dine In,4
+1149,2026-02-23,C126,Los Angeles,Drinks & Sides,Iced Tea,1,3,3,UPI,Takeaway,2
+1150,2026-02-24,C575,Houston,Pizza,BBQ Chicken Pizza,3,19,57,Card,Dine In,4
+1151,2026-02-24,C217,New York,Drinks & Sides,Chicken Wings,3,9,27,UPI,Takeaway,4
+1152,2026-02-24,C347,Chicago,Pizza,Margherita Pizza,1,15,15,UPI,Takeaway,3
+1153,2026-02-25,C204,San Jose,Drinks & Sides,Chicken Wings,2,9,18,UPI,Dine In,5
+1154,2026-02-25,C339,Los Angeles,Dessert,Apple Pie,4,6,24,UPI,Delivery,2
+1155,2026-02-26,C509,San Jose,Drinks & Sides,Coca Cola,1,3,3,Card,Delivery,3
+1156,2026-02-26,C330,Phoenix,Drinks & Sides,Garlic Bread,1,6,6,Cash,Delivery,4
+1157,2026-02-26,C492,Los Angeles,Drinks & Sides,Mozzarella Sticks,2,7,14,Card,Dine In,4
+1158,2026-02-27,C166,Los Angeles,Pizza,Margherita Pizza,1,15,15,Cash,Delivery,4
+1159,2026-02-27,C508,San Diego,Pizza,Margherita Pizza,1,15,15,Cash,Takeaway,5
+1160,2026-02-27,C458,San Antonio,Dessert,Apple Pie,4,6,24,Card,Dine In,3
+1161,2026-02-28,C543,Dallas,Pizza,BBQ Chicken Pizza,3,19,57,Card,Delivery,4
+1162,2026-02-28,C359,Dallas,Pizza,Veggie Supreme Pizza,2,17,34,UPI,Takeaway,2
+1163,2026-02-28,C504,San Jose,Pizza,Veggie Supreme Pizza,4,17,68,Cash,Takeaway,5
+1164,2026-03-01,C124,San Jose,Drinks & Sides,Coca Cola,4,3,12,Card,Delivery,3
+1165,2026-03-01,C211,New York,Drinks & Sides,Mozzarella Sticks,3,7,21,UPI,Dine In,4
+1166,2026-03-02,C180,Phoenix,Dessert,Apple Pie,2,6,12,UPI,Dine In,5
+1167,2026-03-02,C167,New York,Dessert,Chocolate Lava Cake,2,8,16,UPI,Dine In,1
+1168,2026-03-02,C201,Chicago,Pizza,Veggie Supreme Pizza,1,17,17,Card,Delivery,4
+1169,2026-03-03,C176,Dallas,Drinks & Sides,Chicken Wings,3,9,27,UPI,Takeaway,5
+1170,2026-03-03,C315,Dallas,Drinks & Sides,Garlic Bread,3,6,18,UPI,Takeaway,1
+1171,2026-03-03,C209,San Jose,Drinks & Sides,Coca Cola,4,3,12,Cash,Delivery,4
+1172,2026-03-04,C564,Houston,Drinks & Sides,Coca Cola,1,3,3,UPI,Dine In,5
+1173,2026-03-04,C374,Houston,Drinks & Sides,Coca Cola,4,3,12,Cash,Dine In,4
+1174,2026-03-04,C501,Los Angeles,Drinks & Sides,Mozzarella Sticks,4,7,28,Card,Takeaway,3
+1175,2026-03-05,C579,New York,Dessert,Apple Pie,3,6,18,UPI,Takeaway,4
+1176,2026-03-05,C496,Houston,Drinks & Sides,Mozzarella Sticks,2,7,14,Cash,Delivery,5
+1177,2026-03-06,C167,Phoenix,Drinks & Sides,Chicken Wings,3,9,27,Cash,Delivery,5
+1178,2026-03-06,C403,Philadelphia,Pizza,Margherita Pizza,4,15,60,Card,Takeaway,1
+1179,2026-03-06,C312,Chicago,Pizza,Veggie Supreme Pizza,4,17,68,Cash,Delivery,4
+1180,2026-03-07,C298,Los Angeles,Drinks & Sides,Coca Cola,2,3,6,UPI,Dine In,4
+1181,2026-03-07,C125,Chicago,Drinks & Sides,Chicken Wings,2,9,18,UPI,Takeaway,4
+1182,2026-03-07,C278,Philadelphia,Drinks & Sides,Coca Cola,1,3,3,Cash,Delivery,4
+1183,2026-03-08,C556,Houston,Pizza,BBQ Chicken Pizza,4,19,76,UPI,Takeaway,4
+1184,2026-03-08,C430,Los Angeles,Dessert,Apple Pie,4,6,24,Card,Takeaway,4
+1185,2026-03-08,C250,Houston,Drinks & Sides,Garlic Bread,3,6,18,Cash,Delivery,4
+1186,2026-03-09,C280,San Antonio,Dessert,Chocolate Lava Cake,1,8,8,Card,Dine In,4
+1187,2026-03-09,C569,San Antonio,Drinks & Sides,Iced Tea,4,3,12,Card,Dine In,5
+1188,2026-03-10,C430,Chicago,Dessert,Chocolate Lava Cake,2,8,16,Cash,Takeaway,5
+1189,2026-03-10,C296,San Antonio,Pizza,BBQ Chicken Pizza,1,19,19,Card,Dine In,4
+1190,2026-03-10,C108,Phoenix,Drinks & Sides,Mozzarella Sticks,3,7,21,Card,Dine In,5
+1191,2026-03-11,C550,Phoenix,Drinks & Sides,Iced Tea,3,3,9,Cash,Delivery,2
+1192,2026-03-11,C288,Phoenix,Drinks & Sides,Chicken Wings,1,9,9,Card,Delivery,4
+1193,2026-03-11,C491,San Antonio,Dessert,Chocolate Lava Cake,2,8,16,UPI,Takeaway,4
+1194,2026-03-12,C375,Houston,Drinks & Sides,Garlic Bread,1,6,6,UPI,Takeaway,5
+1195,2026-03-12,C390,San Jose,Drinks & Sides,Garlic Bread,2,6,12,UPI,Takeaway,5
+1196,2026-03-12,C500,San Diego,Pizza,Margherita Pizza,4,15,60,Cash,Takeaway,5
+1197,2026-03-13,C539,Philadelphia,Dessert,Apple Pie,4,6,24,Card,Dine In,5
+1198,2026-03-13,C358,Houston,Pizza,Veggie Supreme Pizza,3,17,51,Cash,Dine In,5
+1199,2026-03-14,C487,Phoenix,Pizza,Pepperoni Pizza,1,18,18,Card,Delivery,4
+1200,2026-03-14,C148,San Antonio,Drinks & Sides,Garlic Bread,2,6,12,UPI,Takeaway,5
+1201,2026-03-14,C454,San Diego,Drinks & Sides,Garlic Bread,1,6,6,Cash,Takeaway,3
+1202,2026-03-15,C121,Dallas,Pizza,Margherita Pizza,3,15,45,Card,Dine In,4
+1203,2026-03-15,C219,San Diego,Drinks & Sides,Mozzarella Sticks,1,7,7,Cash,Takeaway,5
+1204,2026-03-15,C492,San Antonio,Drinks & Sides,Chicken Wings,1,9,9,UPI,Takeaway,5
+1205,2026-03-16,C189,San Antonio,Drinks & Sides,Garlic Bread,3,6,18,UPI,Takeaway,3
+1206,2026-03-16,C109,Dallas,Pizza,Pepperoni Pizza,3,18,54,UPI,Delivery,3
+1207,2026-03-16,C440,San Jose,Drinks & Sides,Garlic Bread,4,6,24,Card,Takeaway,3
+1208,2026-03-17,C223,San Jose,Pizza,Veggie Supreme Pizza,1,17,17,Cash,Dine In,5
+1209,2026-03-17,C498,Chicago,Drinks & Sides,Mozzarella Sticks,2,7,14,Cash,Delivery,2
+1210,2026-03-18,C301,Houston,Pizza,Veggie Supreme Pizza,4,17,68,UPI,Dine In,5
+1211,2026-03-18,C438,Phoenix,Drinks & Sides,Iced Tea,2,3,6,Card,Dine In,1
+1212,2026-03-18,C282,Houston,Drinks & Sides,Garlic Bread,1,6,6,Cash,Dine In,3
+1213,2026-03-19,C357,San Antonio,Drinks & Sides,Garlic Bread,4,6,24,UPI,Takeaway,4
+1214,2026-03-19,C363,San Diego,Pizza,BBQ Chicken Pizza,1,19,19,Card,Dine In,5
+1215,2026-03-19,C335,Chicago,Pizza,Pepperoni Pizza,1,18,18,UPI,Takeaway,5
+1216,2026-03-20,C203,Chicago,Drinks & Sides,Garlic Bread,4,6,24,Cash,Delivery,3
+1217,2026-03-20,C312,New York,Pizza,BBQ Chicken Pizza,4,19,76,UPI,Delivery,5
+1218,2026-03-20,C185,Los Angeles,Drinks & Sides,Garlic Bread,1,6,6,UPI,Delivery,3
+1219,2026-03-21,C277,Houston,Dessert,Chocolate Lava Cake,1,8,8,Card,Takeaway,4
+1220,2026-03-21,C164,Los Angeles,Drinks & Sides,Mozzarella Sticks,3,7,21,Cash,Dine In,3
+1221,2026-03-22,C108,San Antonio,Pizza,Margherita Pizza,1,15,15,Card,Dine In,5
+1222,2026-03-22,C550,Chicago,Pizza,BBQ Chicken Pizza,3,19,57,Cash,Dine In,5
+1223,2026-03-22,C415,San Jose,Pizza,Pepperoni Pizza,1,18,18,Cash,Delivery,2
+1224,2026-03-23,C436,Houston,Dessert,Chocolate Lava Cake,2,8,16,Card,Delivery,1
+1225,2026-03-23,C515,San Diego,Drinks & Sides,Chicken Wings,4,9,36,Card,Dine In,5
+1226,2026-03-23,C496,New York,Drinks & Sides,Chicken Wings,2,9,18,Card,Takeaway,5
+1227,2026-03-24,C357,San Jose,Drinks & Sides,Iced Tea,2,3,6,Card,Delivery,4
+1228,2026-03-24,C308,New York,Drinks & Sides,Coca Cola,2,3,6,Card,Dine In,5
+1229,2026-03-24,C592,San Jose,Drinks & Sides,Garlic Bread,1,6,6,UPI,Delivery,3
+1230,2026-03-25,C553,Chicago,Drinks & Sides,Garlic Bread,1,6,6,UPI,Delivery,3
+1231,2026-03-25,C106,Los Angeles,Pizza,Veggie Supreme Pizza,2,17,34,UPI,Delivery,3
+1232,2026-03-26,C352,Chicago,Dessert,Apple Pie,1,6,6,Cash,Takeaway,4
+1233,2026-03-26,C376,San Antonio,Drinks & Sides,Garlic Bread,2,6,12,Cash,Takeaway,4
+1234,2026-03-26,C186,Los Angeles,Drinks & Sides,Chicken Wings,3,9,27,UPI,Dine In,4
+1235,2026-03-27,C137,Dallas,Drinks & Sides,Iced Tea,1,3,3,Card,Takeaway,4
+1236,2026-03-27,C236,New York,Drinks & Sides,Mozzarella Sticks,4,7,28,Card,Dine In,5
+1237,2026-03-27,C115,San Antonio,Pizza,Margherita Pizza,3,15,45,Cash,Delivery,5
+1238,2026-03-28,C285,Philadelphia,Drinks & Sides,Iced Tea,2,3,6,UPI,Delivery,5
+1239,2026-03-28,C291,Dallas,Drinks & Sides,Chicken Wings,1,9,9,Card,Dine In,4
+1240,2026-03-28,C419,Dallas,Drinks & Sides,Chicken Wings,2,9,18,Cash,Takeaway,5
+1241,2026-03-29,C499,Chicago,Drinks & Sides,Mozzarella Sticks,2,7,14,Cash,Takeaway,4
+1242,2026-03-29,C468,New York,Drinks & Sides,Garlic Bread,4,6,24,Cash,Delivery,3
+1243,2026-03-30,C433,Chicago,Pizza,BBQ Chicken Pizza,3,19,57,Card,Takeaway,5
+1244,2026-03-30,C212,Los Angeles,Drinks & Sides,Mozzarella Sticks,2,7,14,UPI,Dine In,5
+1245,2026-03-30,C223,Phoenix,Pizza,BBQ Chicken Pizza,4,19,76,Cash,Delivery,5
+1246,2026-03-31,C243,New York,Pizza,Veggie Supreme Pizza,3,17,51,UPI,Delivery,3
+1247,2026-03-31,C525,Philadelphia,Pizza,Margherita Pizza,2,15,30,Card,Dine In,5
+1248,2026-03-31,C105,Philadelphia,Pizza,Margherita Pizza,4,15,60,UPI,Takeaway,4
+1249,2026-04-01,C196,San Antonio,Drinks & Sides,Coca Cola,2,3,6,UPI,Takeaway,4
+1250,2026-04-01,C254,New York,Dessert,Apple Pie,1,6,6,Card,Delivery,2
+1251,2026-04-02,C123,Philadelphia,Drinks & Sides,Coca Cola,1,3,3,Cash,Takeaway,4
+1252,2026-04-02,C237,Phoenix,Drinks & Sides,Coca Cola,3,3,9,Cash,Takeaway,3
+1253,2026-04-02,C359,San Antonio,Pizza,Margherita Pizza,1,15,15,Cash,Delivery,5
+1254,2026-04-03,C332,Phoenix,Drinks & Sides,Chicken Wings,1,9,9,UPI,Takeaway,2
+1255,2026-04-03,C397,Philadelphia,Dessert,Chocolate Lava Cake,1,8,8,Cash,Delivery,4
+1256,2026-04-03,C252,San Jose,Pizza,Veggie Supreme Pizza,4,17,68,Card,Delivery,4
+1257,2026-04-04,C571,Houston,Drinks & Sides,Iced Tea,1,3,3,UPI,Takeaway,4
+1258,2026-04-04,C209,San Diego,Pizza,Pepperoni Pizza,1,18,18,UPI,Takeaway,3
+1259,2026-04-04,C593,Houston,Dessert,Apple Pie,1,6,6,Cash,Dine In,1
+1260,2026-04-05,C597,Dallas,Drinks & Sides,Coca Cola,3,3,9,Cash,Takeaway,4
+1261,2026-04-05,C475,New York,Drinks & Sides,Chicken Wings,1,9,9,Card,Dine In,5
+1262,2026-04-06,C336,Los Angeles,Pizza,Veggie Supreme Pizza,3,17,51,Cash,Delivery,4
+1263,2026-04-06,C582,San Antonio,Dessert,Chocolate Lava Cake,2,8,16,Card,Takeaway,4
+1264,2026-04-06,C350,Dallas,Drinks & Sides,Iced Tea,2,3,6,Cash,Takeaway,2
+1265,2026-04-07,C456,Chicago,Pizza,Veggie Supreme Pizza,1,17,17,UPI,Takeaway,3
+1266,2026-04-07,C224,San Antonio,Drinks & Sides,Coca Cola,2,3,6,Card,Dine In,4
+1267,2026-04-07,C426,Los Angeles,Drinks & Sides,Iced Tea,4,3,12,Card,Dine In,5
+1268,2026-04-08,C597,San Diego,Dessert,Apple Pie,2,6,12,Card,Dine In,5
+1269,2026-04-08,C109,Dallas,Pizza,Veggie Supreme Pizza,3,17,51,Card,Takeaway,4
+1270,2026-04-08,C356,Philadelphia,Dessert,Chocolate Lava Cake,3,8,24,Card,Delivery,3
+1271,2026-04-09,C491,Dallas,Pizza,Pepperoni Pizza,2,18,36,UPI,Dine In,3
+1272,2026-04-09,C251,San Antonio,Pizza,Pepperoni Pizza,1,18,18,Card,Takeaway,4
+1273,2026-04-10,C344,New York,Pizza,BBQ Chicken Pizza,1,19,19,UPI,Takeaway,5
+1274,2026-04-10,C405,Houston,Drinks & Sides,Coca Cola,4,3,12,Cash,Delivery,5
+1275,2026-04-10,C358,Phoenix,Drinks & Sides,Garlic Bread,2,6,12,UPI,Dine In,4
+1276,2026-04-11,C210,Dallas,Dessert,Chocolate Lava Cake,3,8,24,Cash,Dine In,5
+1277,2026-04-11,C171,Philadelphia,Pizza,Pepperoni Pizza,4,18,72,UPI,Delivery,3
+1278,2026-04-11,C425,Houston,Drinks & Sides,Iced Tea,2,3,6,Card,Takeaway,5
+1279,2026-04-12,C544,San Jose,Pizza,BBQ Chicken Pizza,4,19,76,Cash,Delivery,4
+1280,2026-04-12,C358,New York,Pizza,Veggie Supreme Pizza,3,17,51,Card,Dine In,5
+1281,2026-04-12,C580,San Antonio,Drinks & Sides,Chicken Wings,4,9,36,Card,Delivery,5
+1282,2026-04-13,C261,Los Angeles,Pizza,BBQ Chicken Pizza,2,19,38,Cash,Takeaway,4
+1283,2026-04-13,C362,San Jose,Pizza,Margherita Pizza,3,15,45,Cash,Takeaway,5
+1284,2026-04-14,C458,San Diego,Pizza,Pepperoni Pizza,1,18,18,UPI,Takeaway,5
+1285,2026-04-14,C545,Houston,Drinks & Sides,Mozzarella Sticks,3,7,21,UPI,Dine In,5
+1286,2026-04-14,C403,New York,Pizza,Margherita Pizza,3,15,45,Card,Takeaway,4
+1287,2026-04-15,C598,Philadelphia,Dessert,Chocolate Lava Cake,4,8,32,Cash,Takeaway,5
+1288,2026-04-15,C574,Los Angeles,Pizza,BBQ Chicken Pizza,4,19,76,Card,Delivery,5
+1289,2026-04-15,C508,Houston,Dessert,Apple Pie,3,6,18,Cash,Takeaway,5
+1290,2026-04-16,C136,Los Angeles,Drinks & Sides,Coca Cola,1,3,3,Card,Dine In,4
+1291,2026-04-16,C396,Houston,Drinks & Sides,Coca Cola,3,3,9,Cash,Dine In,5
+1292,2026-04-16,C213,San Jose,Pizza,Veggie Supreme Pizza,2,17,34,Cash,Dine In,4
+1293,2026-04-17,C205,San Antonio,Drinks & Sides,Coca Cola,3,3,9,UPI,Dine In,4
+1294,2026-04-17,C192,Philadelphia,Drinks & Sides,Garlic Bread,1,6,6,UPI,Takeaway,4
+1295,2026-04-18,C216,Los Angeles,Pizza,Pepperoni Pizza,3,18,54,Cash,Delivery,4
+1296,2026-04-18,C178,San Jose,Drinks & Sides,Coca Cola,1,3,3,Cash,Takeaway,5
+1297,2026-04-18,C223,Houston,Drinks & Sides,Iced Tea,1,3,3,UPI,Delivery,4
+1298,2026-04-19,C319,Dallas,Pizza,Veggie Supreme Pizza,3,17,51,UPI,Takeaway,5
+1299,2026-04-19,C297,San Diego,Dessert,Chocolate Lava Cake,3,8,24,Cash,Delivery,3
+1300,2026-04-19,C403,San Diego,Dessert,Apple Pie,1,6,6,UPI,Takeaway,4
+1301,2026-04-20,C177,Phoenix,Dessert,Chocolate Lava Cake,4,8,32,UPI,Takeaway,5
+1302,2026-04-20,C412,San Jose,Drinks & Sides,Mozzarella Sticks,1,7,7,Cash,Takeaway,5
+1303,2026-04-20,C320,San Jose,Drinks & Sides,Mozzarella Sticks,4,7,28,Card,Takeaway,1
+1304,2026-04-21,C592,San Diego,Dessert,Chocolate Lava Cake,3,8,24,UPI,Takeaway,4
+1305,2026-04-21,C228,San Diego,Drinks & Sides,Garlic Bread,3,6,18,Cash,Takeaway,5
+1306,2026-04-22,C442,Phoenix,Pizza,Veggie Supreme Pizza,3,17,51,Card,Dine In,1
+1307,2026-04-22,C343,Phoenix,Pizza,Pepperoni Pizza,1,18,18,Cash,Dine In,1
+1308,2026-04-22,C179,Chicago,Drinks & Sides,Mozzarella Sticks,4,7,28,Card,Delivery,4
+1309,2026-04-23,C375,New York,Drinks & Sides,Coca Cola,2,3,6,Card,Takeaway,4
+1310,2026-04-23,C227,Houston,Drinks & Sides,Chicken Wings,3,9,27,Card,Delivery,5
+1311,2026-04-23,C191,Chicago,Dessert,Apple Pie,1,6,6,Cash,Takeaway,4
+1312,2026-04-24,C430,Philadelphia,Drinks & Sides,Mozzarella Sticks,2,7,14,Cash,Dine In,4
+1313,2026-04-24,C527,Phoenix,Pizza,Veggie Supreme Pizza,3,17,51,Card,Delivery,5
+1314,2026-04-24,C456,New York,Pizza,Veggie Supreme Pizza,4,17,68,Cash,Takeaway,5
+1315,2026-04-25,C341,Dallas,Drinks & Sides,Mozzarella Sticks,2,7,14,UPI,Dine In,3
+1316,2026-04-25,C425,Los Angeles,Drinks & Sides,Mozzarella Sticks,3,7,21,UPI,Delivery,5
+1317,2026-04-26,C126,San Jose,Drinks & Sides,Garlic Bread,3,6,18,Cash,Delivery,4
+1318,2026-04-26,C336,Phoenix,Pizza,Margherita Pizza,4,15,60,Cash,Delivery,4
+1319,2026-04-26,C474,Phoenix,Drinks & Sides,Iced Tea,4,3,12,Cash,Takeaway,5
+1320,2026-04-27,C294,Dallas,Drinks & Sides,Coca Cola,2,3,6,Cash,Takeaway,3
+1321,2026-04-27,C126,San Antonio,Drinks & Sides,Garlic Bread,2,6,12,Card,Delivery,4
+1322,2026-04-27,C328,San Jose,Drinks & Sides,Mozzarella Sticks,1,7,7,Card,Delivery,4
+1323,2026-04-28,C333,Chicago,Drinks & Sides,Chicken Wings,3,9,27,UPI,Delivery,3
+1324,2026-04-28,C263,Dallas,Drinks & Sides,Mozzarella Sticks,4,7,28,UPI,Takeaway,3
+1325,2026-04-28,C411,New York,Drinks & Sides,Garlic Bread,4,6,24,Cash,Delivery,4
+1326,2026-04-29,C532,Phoenix,Pizza,Margherita Pizza,2,15,30,Card,Takeaway,4
+1327,2026-04-29,C383,San Jose,Drinks & Sides,Coca Cola,1,3,3,Cash,Dine In,5
+1328,2026-04-30,C309,Phoenix,Drinks & Sides,Garlic Bread,2,6,12,UPI,Delivery,5
+1329,2026-04-30,C582,Dallas,Pizza,BBQ Chicken Pizza,2,19,38,Cash,Dine In,4
+1330,2026-04-30,C345,San Jose,Dessert,Chocolate Lava Cake,2,8,16,UPI,Takeaway,4
+1331,2026-05-01,C183,Dallas,Pizza,BBQ Chicken Pizza,1,19,19,UPI,Delivery,2
+1332,2026-05-01,C429,San Antonio,Pizza,Pepperoni Pizza,3,18,54,Card,Delivery,5
+1333,2026-05-01,C352,San Diego,Dessert,Chocolate Lava Cake,4,8,32,Cash,Delivery,3
+1334,2026-05-02,C590,Phoenix,Dessert,Chocolate Lava Cake,1,8,8,Cash,Dine In,5
+1335,2026-05-02,C437,San Antonio,Pizza,Margherita Pizza,4,15,60,Card,Delivery,5
+1336,2026-05-02,C377,New York,Pizza,Veggie Supreme Pizza,1,17,17,Card,Takeaway,5
+1337,2026-05-03,C551,New York,Pizza,Margherita Pizza,2,15,30,UPI,Delivery,2
+1338,2026-05-03,C600,Philadelphia,Dessert,Chocolate Lava Cake,4,8,32,Card,Delivery,5
+1339,2026-05-04,C267,San Diego,Pizza,BBQ Chicken Pizza,3,19,57,UPI,Takeaway,4
+1340,2026-05-04,C287,San Diego,Drinks & Sides,Iced Tea,3,3,9,Cash,Delivery,5
+1341,2026-05-04,C473,Phoenix,Pizza,Margherita Pizza,2,15,30,Card,Dine In,3
+1342,2026-05-05,C303,New York,Drinks & Sides,Garlic Bread,2,6,12,Cash,Dine In,4
+1343,2026-05-05,C162,Philadelphia,Drinks & Sides,Coca Cola,2,3,6,Card,Delivery,4
+1344,2026-05-05,C161,San Diego,Drinks & Sides,Iced Tea,4,3,12,UPI,Delivery,4
+1345,2026-05-06,C451,Dallas,Drinks & Sides,Garlic Bread,1,6,6,Cash,Delivery,3
+1346,2026-05-06,C234,Houston,Pizza,Veggie Supreme Pizza,2,17,34,UPI,Takeaway,5
+1347,2026-05-06,C422,Phoenix,Pizza,Veggie Supreme Pizza,4,17,68,UPI,Delivery,5
+1348,2026-05-07,C163,San Antonio,Pizza,BBQ Chicken Pizza,2,19,38,Card,Takeaway,5
+1349,2026-05-07,C508,Chicago,Pizza,Margherita Pizza,4,15,60,Card,Dine In,4
+1350,2026-05-08,C107,New York,Pizza,BBQ Chicken Pizza,1,19,19,UPI,Delivery,5
+1351,2026-05-08,C434,San Jose,Drinks & Sides,Iced Tea,2,3,6,Card,Delivery,5
+1352,2026-05-08,C118,Houston,Pizza,Veggie Supreme Pizza,4,17,68,UPI,Dine In,3
+1353,2026-05-09,C269,Dallas,Pizza,Pepperoni Pizza,2,18,36,Card,Dine In,5
+1354,2026-05-09,C188,Chicago,Drinks & Sides,Coca Cola,2,3,6,UPI,Delivery,2
+1355,2026-05-09,C249,New York,Dessert,Chocolate Lava Cake,3,8,24,Card,Takeaway,3
+1356,2026-05-10,C327,Chicago,Pizza,Pepperoni Pizza,4,18,72,Card,Dine In,4
+1357,2026-05-10,C295,San Antonio,Pizza,Pepperoni Pizza,1,18,18,Cash,Dine In,2
+1358,2026-05-10,C391,Dallas,Pizza,Veggie Supreme Pizza,4,17,68,UPI,Takeaway,4
+1359,2026-05-11,C118,San Jose,Drinks & Sides,Coca Cola,3,3,9,Cash,Takeaway,2
+1360,2026-05-11,C131,San Diego,Dessert,Chocolate Lava Cake,3,8,24,UPI,Takeaway,5
+1361,2026-05-12,C489,Dallas,Pizza,Pepperoni Pizza,3,18,54,Card,Takeaway,4
+1362,2026-05-12,C412,San Antonio,Dessert,Apple Pie,2,6,12,Card,Delivery,5
+1363,2026-05-12,C292,San Antonio,Pizza,Margherita Pizza,3,15,45,UPI,Delivery,4
+1364,2026-05-13,C204,San Jose,Dessert,Apple Pie,3,6,18,Card,Delivery,4
+1365,2026-05-13,C232,New York,Pizza,Veggie Supreme Pizza,1,17,17,UPI,Dine In,5
+1366,2026-05-13,C455,Phoenix,Drinks & Sides,Chicken Wings,4,9,36,Cash,Takeaway,4
+1367,2026-05-14,C461,Chicago,Drinks & Sides,Garlic Bread,2,6,12,Card,Dine In,5
+1368,2026-05-14,C368,Chicago,Drinks & Sides,Iced Tea,2,3,6,UPI,Dine In,4
+1369,2026-05-14,C336,San Jose,Drinks & Sides,Mozzarella Sticks,1,7,7,UPI,Dine In,3
+1370,2026-05-15,C111,Dallas,Pizza,Margherita Pizza,3,15,45,UPI,Delivery,4
+1371,2026-05-15,C475,Phoenix,Pizza,Veggie Supreme Pizza,3,17,51,Card,Delivery,5
+1372,2026-05-16,C281,San Antonio,Pizza,Pepperoni Pizza,3,18,54,UPI,Takeaway,4
+1373,2026-05-16,C251,Phoenix,Drinks & Sides,Chicken Wings,3,9,27,Card,Dine In,4
+1374,2026-05-16,C368,Dallas,Dessert,Apple Pie,4,6,24,Cash,Delivery,5
+1375,2026-05-17,C478,Houston,Drinks & Sides,Garlic Bread,2,6,12,Card,Dine In,5
+1376,2026-05-17,C577,San Diego,Pizza,Pepperoni Pizza,2,18,36,UPI,Dine In,4
+1377,2026-05-17,C372,Los Angeles,Dessert,Chocolate Lava Cake,2,8,16,UPI,Delivery,3
+1378,2026-05-18,C393,Phoenix,Pizza,Veggie Supreme Pizza,3,17,51,Card,Dine In,5
+1379,2026-05-18,C572,San Jose,Drinks & Sides,Garlic Bread,2,6,12,Cash,Takeaway,4
+1380,2026-05-18,C290,San Antonio,Pizza,Veggie Supreme Pizza,3,17,51,Cash,Dine In,3
+1381,2026-05-19,C516,San Diego,Pizza,BBQ Chicken Pizza,4,19,76,Card,Dine In,2
+1382,2026-05-19,C189,Dallas,Pizza,Margherita Pizza,2,15,30,Cash,Takeaway,3
+1383,2026-05-20,C123,San Antonio,Drinks & Sides,Iced Tea,3,3,9,UPI,Dine In,4
+1384,2026-05-20,C591,San Jose,Dessert,Chocolate Lava Cake,2,8,16,Cash,Dine In,5
+1385,2026-05-20,C597,San Jose,Drinks & Sides,Chicken Wings,1,9,9,Card,Takeaway,5
+1386,2026-05-21,C562,Houston,Pizza,Margherita Pizza,3,15,45,UPI,Dine In,4
+1387,2026-05-21,C146,Phoenix,Pizza,Margherita Pizza,2,15,30,Cash,Dine In,4
+1388,2026-05-21,C547,Philadelphia,Dessert,Apple Pie,3,6,18,Card,Takeaway,5
+1389,2026-05-22,C234,New York,Dessert,Chocolate Lava Cake,4,8,32,UPI,Takeaway,4
+1390,2026-05-22,C252,New York,Drinks & Sides,Iced Tea,4,3,12,Card,Dine In,5
+1391,2026-05-22,C464,Chicago,Dessert,Chocolate Lava Cake,3,8,24,Card,Delivery,4
+1392,2026-05-23,C523,Philadelphia,Dessert,Apple Pie,4,6,24,Card,Takeaway,4
+1393,2026-05-23,C261,Philadelphia,Pizza,BBQ Chicken Pizza,2,19,38,UPI,Dine In,5
+1394,2026-05-24,C435,San Antonio,Drinks & Sides,Chicken Wings,2,9,18,UPI,Dine In,4
+1395,2026-05-24,C388,San Jose,Dessert,Chocolate Lava Cake,1,8,8,Card,Takeaway,4
+1396,2026-05-24,C119,Phoenix,Drinks & Sides,Iced Tea,1,3,3,UPI,Delivery,1
+1397,2026-05-25,C121,New York,Drinks & Sides,Mozzarella Sticks,3,7,21,Card,Dine In,2
+1398,2026-05-25,C501,Chicago,Pizza,Margherita Pizza,3,15,45,Cash,Dine In,5
+1399,2026-05-25,C235,New York,Pizza,Veggie Supreme Pizza,1,17,17,UPI,Dine In,5
+1400,2026-05-26,C552,Philadelphia,Drinks & Sides,Garlic Bread,1,6,6,Cash,Dine In,4
+1401,2026-05-26,C290,Chicago,Dessert,Chocolate Lava Cake,1,8,8,Cash,Takeaway,4
+1402,2026-05-26,C110,San Diego,Pizza,Veggie Supreme Pizza,3,17,51,UPI,Dine In,4
+1403,2026-05-27,C296,Philadelphia,Pizza,Margherita Pizza,3,15,45,Cash,Delivery,3
+1404,2026-05-27,C368,New York,Dessert,Chocolate Lava Cake,2,8,16,UPI,Delivery,5
+1405,2026-05-28,C505,Phoenix,Drinks & Sides,Coca Cola,3,3,9,Card,Delivery,5
+1406,2026-05-28,C283,New York,Dessert,Chocolate Lava Cake,3,8,24,Cash,Delivery,3
+1407,2026-05-28,C177,Chicago,Drinks & Sides,Garlic Bread,1,6,6,Cash,Takeaway,4
+1408,2026-05-29,C117,Houston,Drinks & Sides,Garlic Bread,2,6,12,UPI,Delivery,3
+1409,2026-05-29,C306,San Antonio,Pizza,Margherita Pizza,2,15,30,UPI,Delivery,5
+1410,2026-05-29,C230,San Antonio,Drinks & Sides,Mozzarella Sticks,3,7,21,UPI,Dine In,4
+1411,2026-05-30,C572,New York,Dessert,Apple Pie,3,6,18,UPI,Dine In,5
+1412,2026-05-30,C547,Chicago,Drinks & Sides,Garlic Bread,4,6,24,Cash,Dine In,4
+1413,2026-05-30,C581,Philadelphia,Drinks & Sides,Garlic Bread,2,6,12,Card,Delivery,4
+1414,2026-05-31,C487,Chicago,Drinks & Sides,Chicken Wings,2,9,18,Cash,Dine In,5
+1415,2026-05-31,C142,New York,Drinks & Sides,Iced Tea,2,3,6,UPI,Takeaway,5
+1416,2026-06-01,C500,Chicago,Pizza,Margherita Pizza,3,15,45,Card,Delivery,5
+1417,2026-06-01,C160,San Diego,Drinks & Sides,Coca Cola,1,3,3,Card,Delivery,5
+1418,2026-06-01,C221,Philadelphia,Drinks & Sides,Iced Tea,3,3,9,Cash,Delivery,4
+1419,2026-06-02,C474,New York,Pizza,Veggie Supreme Pizza,2,17,34,UPI,Dine In,4
+1420,2026-06-02,C489,Dallas,Drinks & Sides,Coca Cola,3,3,9,UPI,Takeaway,5
+1421,2026-06-02,C326,Philadelphia,Pizza,BBQ Chicken Pizza,2,19,38,Card,Delivery,4
+1422,2026-06-03,C476,Philadelphia,Dessert,Chocolate Lava Cake,1,8,8,Cash,Delivery,1
+1423,2026-06-03,C429,San Antonio,Dessert,Apple Pie,2,6,12,UPI,Takeaway,4
+1424,2026-06-03,C374,San Jose,Drinks & Sides,Garlic Bread,2,6,12,Cash,Takeaway,4
+1425,2026-06-04,C347,Philadelphia,Drinks & Sides,Iced Tea,1,3,3,UPI,Dine In,5
+1426,2026-06-04,C483,Los Angeles,Dessert,Chocolate Lava Cake,3,8,24,UPI,Delivery,5
+1427,2026-06-05,C355,San Diego,Drinks & Sides,Mozzarella Sticks,3,7,21,Cash,Takeaway,4
+1428,2026-06-05,C172,New York,Pizza,BBQ Chicken Pizza,2,19,38,Card,Takeaway,3
+1429,2026-06-05,C285,Dallas,Pizza,Margherita Pizza,3,15,45,UPI,Delivery,5
+1430,2026-06-06,C479,Chicago,Pizza,Pepperoni Pizza,4,18,72,Cash,Takeaway,3
+1431,2026-06-06,C157,Dallas,Pizza,Margherita Pizza,3,15,45,UPI,Takeaway,5
+1432,2026-06-06,C141,Phoenix,Drinks & Sides,Iced Tea,2,3,6,Card,Delivery,4
+1433,2026-06-07,C219,Los Angeles,Pizza,Pepperoni Pizza,4,18,72,Cash,Delivery,5
+1434,2026-06-07,C217,San Jose,Drinks & Sides,Garlic Bread,4,6,24,Card,Dine In,5
+1435,2026-06-07,C530,New York,Drinks & Sides,Mozzarella Sticks,3,7,21,UPI,Dine In,5
+1436,2026-06-08,C498,Phoenix,Dessert,Apple Pie,3,6,18,UPI,Takeaway,5
+1437,2026-06-08,C449,Los Angeles,Pizza,BBQ Chicken Pizza,4,19,76,Card,Delivery,3
+1438,2026-06-09,C422,Philadelphia,Dessert,Chocolate Lava Cake,4,8,32,UPI,Delivery,5
+1439,2026-06-09,C362,Chicago,Dessert,Chocolate Lava Cake,4,8,32,Card,Dine In,5
+1440,2026-06-09,C523,San Diego,Drinks & Sides,Coca Cola,1,3,3,UPI,Delivery,5
+1441,2026-06-10,C115,Philadelphia,Pizza,Margherita Pizza,1,15,15,Cash,Dine In,5
+1442,2026-06-10,C593,Philadelphia,Pizza,Margherita Pizza,2,15,30,Cash,Dine In,4
+1443,2026-06-10,C203,Phoenix,Pizza,Pepperoni Pizza,3,18,54,UPI,Dine In,5
+1444,2026-06-11,C214,Los Angeles,Pizza,BBQ Chicken Pizza,3,19,57,Card,Takeaway,2
+1445,2026-06-11,C276,Phoenix,Drinks & Sides,Garlic Bread,3,6,18,Card,Takeaway,3
+1446,2026-06-11,C302,New York,Pizza,Margherita Pizza,1,15,15,Cash,Delivery,5
+1447,2026-06-12,C182,San Diego,Drinks & Sides,Mozzarella Sticks,2,7,14,UPI,Delivery,5
+1448,2026-06-12,C323,San Antonio,Pizza,Pepperoni Pizza,3,18,54,Cash,Dine In,2
+1449,2026-06-13,C383,Dallas,Dessert,Apple Pie,2,6,12,Card,Takeaway,3
+1450,2026-06-13,C558,Los Angeles,Drinks & Sides,Chicken Wings,3,9,27,UPI,Delivery,4
+1451,2026-06-13,C399,San Diego,Pizza,Margherita Pizza,2,15,30,Cash,Dine In,5
+1452,2026-06-14,C523,New York,Dessert,Apple Pie,3,6,18,Card,Delivery,5
+1453,2026-06-14,C408,Houston,Dessert,Apple Pie,3,6,18,Card,Delivery,5
+1454,2026-06-14,C512,San Antonio,Pizza,Veggie Supreme Pizza,2,17,34,Cash,Takeaway,5
+1455,2026-06-15,C227,San Antonio,Pizza,Pepperoni Pizza,3,18,54,Card,Dine In,3
+1456,2026-06-15,C328,San Diego,Drinks & Sides,Garlic Bread,1,6,6,Card,Takeaway,2
+1457,2026-06-15,C421,Dallas,Pizza,Margherita Pizza,3,15,45,Cash,Delivery,4
+1458,2026-06-16,C490,Philadelphia,Drinks & Sides,Coca Cola,1,3,3,UPI,Delivery,5
+1459,2026-06-16,C151,San Jose,Drinks & Sides,Garlic Bread,3,6,18,UPI,Takeaway,5
+1460,2026-06-17,C309,Chicago,Drinks & Sides,Mozzarella Sticks,4,7,28,Cash,Dine In,5
+1461,2026-06-17,C574,New York,Dessert,Apple Pie,3,6,18,UPI,Dine In,5
+1462,2026-06-17,C299,Chicago,Pizza,BBQ Chicken Pizza,4,19,76,UPI,Takeaway,4
+1463,2026-06-18,C102,Dallas,Dessert,Chocolate Lava Cake,1,8,8,Card,Delivery,3
+1464,2026-06-18,C503,San Diego,Dessert,Apple Pie,1,6,6,Cash,Dine In,5
+1465,2026-06-18,C248,New York,Drinks & Sides,Chicken Wings,2,9,18,Cash,Dine In,4
+1466,2026-06-19,C420,Dallas,Pizza,BBQ Chicken Pizza,1,19,19,Card,Dine In,4
+1467,2026-06-19,C143,Chicago,Drinks & Sides,Chicken Wings,3,9,27,Cash,Delivery,5
+1468,2026-06-19,C585,Phoenix,Pizza,Veggie Supreme Pizza,2,17,34,Card,Delivery,5
+1469,2026-06-20,C373,Los Angeles,Drinks & Sides,Chicken Wings,1,9,9,Cash,Takeaway,5
+1470,2026-06-20,C404,Dallas,Drinks & Sides,Coca Cola,2,3,6,Card,Takeaway,3
+1471,2026-06-21,C415,San Diego,Drinks & Sides,Coca Cola,3,3,9,UPI,Dine In,2
+1472,2026-06-21,C416,Dallas,Drinks & Sides,Mozzarella Sticks,3,7,21,UPI,Delivery,4
+1473,2026-06-21,C201,San Jose,Dessert,Chocolate Lava Cake,1,8,8,Cash,Dine In,3
+1474,2026-06-22,C462,Dallas,Pizza,Veggie Supreme Pizza,1,17,17,Card,Dine In,2
+1475,2026-06-22,C470,Phoenix,Dessert,Apple Pie,4,6,24,Card,Dine In,5
+1476,2026-06-22,C131,Phoenix,Pizza,Pepperoni Pizza,3,18,54,UPI,Takeaway,5
+1477,2026-06-23,C589,New York,Pizza,BBQ Chicken Pizza,2,19,38,UPI,Takeaway,4
+1478,2026-06-23,C503,Dallas,Pizza,Veggie Supreme Pizza,4,17,68,Cash,Takeaway,4
+1479,2026-06-23,C250,San Antonio,Pizza,Pepperoni Pizza,4,18,72,Card,Dine In,5
+1480,2026-06-24,C350,Philadelphia,Dessert,Chocolate Lava Cake,4,8,32,Cash,Delivery,4
+1481,2026-06-24,C384,New York,Pizza,BBQ Chicken Pizza,2,19,38,Cash,Delivery,4
+1482,2026-06-25,C226,Dallas,Drinks & Sides,Mozzarella Sticks,3,7,21,Card,Takeaway,5
+1483,2026-06-25,C579,Chicago,Pizza,BBQ Chicken Pizza,3,19,57,Cash,Delivery,5
+1484,2026-06-25,C327,Chicago,Pizza,Margherita Pizza,2,15,30,Cash,Delivery,2
+1485,2026-06-26,C127,San Jose,Dessert,Chocolate Lava Cake,1,8,8,Card,Takeaway,4
+1486,2026-06-26,C428,New York,Pizza,Margherita Pizza,3,15,45,Cash,Takeaway,5
+1487,2026-06-26,C208,Philadelphia,Pizza,Veggie Supreme Pizza,3,17,51,Card,Dine In,5
+1488,2026-06-27,C397,Los Angeles,Dessert,Apple Pie,2,6,12,UPI,Dine In,5
+1489,2026-06-27,C128,Phoenix,Drinks & Sides,Iced Tea,3,3,9,UPI,Dine In,5
+1490,2026-06-27,C107,Philadelphia,Dessert,Chocolate Lava Cake,2,8,16,Card,Delivery,4
+1491,2026-06-28,C600,San Diego,Dessert,Apple Pie,1,6,6,UPI,Delivery,5
+1492,2026-06-28,C389,Chicago,Pizza,BBQ Chicken Pizza,3,19,57,UPI,Dine In,4
+1493,2026-06-29,C499,Phoenix,Drinks & Sides,Chicken Wings,4,9,36,Cash,Dine In,3
+1494,2026-06-29,C358,Los Angeles,Pizza,Veggie Supreme Pizza,2,17,34,Card,Delivery,5
+1495,2026-06-29,C444,New York,Pizza,Veggie Supreme Pizza,4,17,68,UPI,Delivery,4
+1496,2026-06-30,C478,San Diego,Pizza,BBQ Chicken Pizza,4,19,76,UPI,Takeaway,4
+1497,2026-06-30,C321,San Diego,Dessert,Apple Pie,1,6,6,Cash,Takeaway,5
+1498,2026-06-30,C208,Los Angeles,Drinks & Sides,Chicken Wings,1,9,9,Cash,Dine In,5
+1499,2026-07-01,C313,San Diego,Pizza,BBQ Chicken Pizza,4,19,76,UPI,Dine In,5
+1500,2026-07-01,C278,San Antonio,Pizza,BBQ Chicken Pizza,2,19,38,UPI,Delivery,4
+1501,2026-07-02,C105,Houston,Drinks & Sides,Coca Cola,4,3,12,UPI,Dine In,5
+1502,2026-07-02,C310,San Jose,Pizza,Veggie Supreme Pizza,4,17,68,Card,Delivery,3
+1503,2026-07-02,C490,San Jose,Drinks & Sides,Mozzarella Sticks,2,7,14,Cash,Dine In,3
+1504,2026-07-03,C291,Philadelphia,Pizza,Margherita Pizza,4,15,60,Cash,Dine In,5
+1505,2026-07-03,C342,Dallas,Drinks & Sides,Mozzarella Sticks,4,7,28,Cash,Delivery,4
+1506,2026-07-03,C125,Phoenix,Drinks & Sides,Iced Tea,3,3,9,Card,Dine In,4
+1507,2026-07-04,C270,San Jose,Drinks & Sides,Mozzarella Sticks,2,7,14,Cash,Takeaway,4
+1508,2026-07-04,C119,Philadelphia,Drinks & Sides,Coca Cola,1,3,3,Cash,Delivery,4
+1509,2026-07-04,C539,San Diego,Drinks & Sides,Iced Tea,4,3,12,Card,Dine In,2
+1510,2026-07-05,C106,Philadelphia,Drinks & Sides,Chicken Wings,3,9,27,Cash,Takeaway,5
+1511,2026-07-05,C570,San Antonio,Drinks & Sides,Coca Cola,4,3,12,Cash,Dine In,5
+1512,2026-07-06,C479,Houston,Dessert,Chocolate Lava Cake,2,8,16,Cash,Delivery,3
+1513,2026-07-06,C277,New York,Drinks & Sides,Mozzarella Sticks,1,7,7,UPI,Takeaway,5
+1514,2026-07-06,C472,New York,Pizza,Veggie Supreme Pizza,2,17,34,Card,Dine In,5
+1515,2026-07-07,C274,San Diego,Dessert,Apple Pie,3,6,18,Cash,Dine In,5
+1516,2026-07-07,C369,New York,Dessert,Chocolate Lava Cake,1,8,8,UPI,Dine In,4
+1517,2026-07-07,C545,Philadelphia,Pizza,Pepperoni Pizza,3,18,54,UPI,Dine In,2
+1518,2026-07-08,C502,Chicago,Dessert,Chocolate Lava Cake,4,8,32,Cash,Delivery,4
+1519,2026-07-08,C236,Chicago,Dessert,Apple Pie,1,6,6,Card,Delivery,5
+1520,2026-07-08,C507,New York,Pizza,BBQ Chicken Pizza,1,19,19,Card,Dine In,5
+1521,2026-07-09,C255,New York,Dessert,Apple Pie,1,6,6,UPI,Takeaway,5
+1522,2026-07-09,C360,Chicago,Pizza,Veggie Supreme Pizza,1,17,17,Cash,Takeaway,4
+1523,2026-07-10,C378,San Diego,Pizza,BBQ Chicken Pizza,1,19,19,Card,Takeaway,2
+1524,2026-07-10,C416,Houston,Drinks & Sides,Mozzarella Sticks,4,7,28,Card,Takeaway,4
+1525,2026-07-10,C438,Dallas,Drinks & Sides,Garlic Bread,3,6,18,Card,Takeaway,5
+1526,2026-07-11,C476,Los Angeles,Pizza,Pepperoni Pizza,1,18,18,Cash,Takeaway,3
+1527,2026-07-11,C367,Dallas,Drinks & Sides,Garlic Bread,2,6,12,UPI,Dine In,5
+1528,2026-07-11,C560,Phoenix,Drinks & Sides,Chicken Wings,1,9,9,Cash,Delivery,5
+1529,2026-07-12,C385,Los Angeles,Drinks & Sides,Garlic Bread,2,6,12,UPI,Delivery,4
+1530,2026-07-12,C347,San Antonio,Drinks & Sides,Garlic Bread,1,6,6,Cash,Takeaway,5
+1531,2026-07-12,C592,Los Angeles,Drinks & Sides,Chicken Wings,1,9,9,Cash,Dine In,3
+1532,2026-07-13,C524,Dallas,Drinks & Sides,Iced Tea,3,3,9,UPI,Dine In,1
+1533,2026-07-13,C386,Dallas,Dessert,Chocolate Lava Cake,3,8,24,Cash,Delivery,4
+1534,2026-07-14,C200,Houston,Pizza,Pepperoni Pizza,1,18,18,Card,Takeaway,5
+1535,2026-07-14,C199,Dallas,Pizza,Margherita Pizza,1,15,15,Cash,Dine In,4
+1536,2026-07-14,C366,Los Angeles,Drinks & Sides,Iced Tea,1,3,3,Card,Delivery,4
+1537,2026-07-15,C178,Dallas,Drinks & Sides,Mozzarella Sticks,1,7,7,UPI,Delivery,4
+1538,2026-07-15,C210,Los Angeles,Drinks & Sides,Coca Cola,2,3,6,UPI,Delivery,2
+1539,2026-07-15,C521,San Diego,Pizza,Margherita Pizza,1,15,15,UPI,Dine In,5
+1540,2026-07-16,C593,New York,Drinks & Sides,Coca Cola,1,3,3,Card,Dine In,2
+1541,2026-07-16,C200,Dallas,Dessert,Chocolate Lava Cake,2,8,16,Cash,Delivery,5
+1542,2026-07-16,C225,San Diego,Dessert,Chocolate Lava Cake,1,8,8,UPI,Delivery,5
+1543,2026-07-17,C577,Dallas,Pizza,Margherita Pizza,4,15,60,Cash,Delivery,5
+1544,2026-07-17,C112,Houston,Drinks & Sides,Chicken Wings,1,9,9,UPI,Delivery,3
+1545,2026-07-18,C211,Los Angeles,Drinks & Sides,Coca Cola,1,3,3,Cash,Delivery,3
+1546,2026-07-18,C139,Philadelphia,Pizza,Margherita Pizza,1,15,15,Cash,Takeaway,5
+1547,2026-07-18,C295,Dallas,Dessert,Apple Pie,3,6,18,Cash,Delivery,2
+1548,2026-07-19,C207,San Jose,Drinks & Sides,Chicken Wings,3,9,27,UPI,Dine In,5
+1549,2026-07-19,C415,Phoenix,Drinks & Sides,Coca Cola,1,3,3,Card,Takeaway,5
+1550,2026-07-19,C392,Chicago,Dessert,Chocolate Lava Cake,4,8,32,Card,Dine In,1
+1551,2026-07-20,C322,Dallas,Dessert,Chocolate Lava Cake,4,8,32,UPI,Takeaway,5
+1552,2026-07-20,C349,Chicago,Dessert,Chocolate Lava Cake,2,8,16,Cash,Takeaway,2
+1553,2026-07-20,C116,Los Angeles,Drinks & Sides,Coca Cola,4,3,12,Card,Delivery,4
+1554,2026-07-21,C459,San Antonio,Drinks & Sides,Coca Cola,2,3,6,UPI,Dine In,4
+1555,2026-07-21,C188,Los Angeles,Pizza,Margherita Pizza,2,15,30,Cash,Delivery,4
+1556,2026-07-22,C508,San Antonio,Pizza,Pepperoni Pizza,2,18,36,UPI,Delivery,5
+1557,2026-07-22,C475,Phoenix,Dessert,Chocolate Lava Cake,4,8,32,Card,Delivery,3
+1558,2026-07-22,C401,San Jose,Drinks & Sides,Chicken Wings,4,9,36,Card,Takeaway,3
+1559,2026-07-23,C247,Phoenix,Pizza,Veggie Supreme Pizza,1,17,17,Cash,Delivery,4
+1560,2026-07-23,C599,New York,Drinks & Sides,Chicken Wings,3,9,27,UPI,Takeaway,5
+1561,2026-07-23,C379,Chicago,Pizza,BBQ Chicken Pizza,4,19,76,Cash,Takeaway,2
+1562,2026-07-24,C378,Los Angeles,Drinks & Sides,Chicken Wings,2,9,18,Cash,Delivery,5
+1563,2026-07-24,C549,San Jose,Dessert,Apple Pie,4,6,24,UPI,Dine In,5
+1564,2026-07-24,C236,Philadelphia,Drinks & Sides,Coca Cola,3,3,9,UPI,Dine In,5
+1565,2026-07-25,C396,New York,Drinks & Sides,Coca Cola,3,3,9,Cash,Takeaway,5
+1566,2026-07-25,C580,Chicago,Pizza,Pepperoni Pizza,4,18,72,Cash,Delivery,5
+1567,2026-07-26,C434,San Diego,Drinks & Sides,Mozzarella Sticks,1,7,7,Card,Takeaway,5
+1568,2026-07-26,C206,San Jose,Pizza,Veggie Supreme Pizza,3,17,51,UPI,Delivery,5
+1569,2026-07-26,C270,Los Angeles,Drinks & Sides,Garlic Bread,1,6,6,Card,Delivery,4
+1570,2026-07-27,C251,Chicago,Drinks & Sides,Garlic Bread,4,6,24,Card,Delivery,3
+1571,2026-07-27,C272,Phoenix,Pizza,BBQ Chicken Pizza,1,19,19,Card,Dine In,5
+1572,2026-07-27,C588,San Antonio,Pizza,Pepperoni Pizza,2,18,36,UPI,Delivery,1
+1573,2026-07-28,C366,Dallas,Pizza,Pepperoni Pizza,3,18,54,Cash,Takeaway,5
+1574,2026-07-28,C492,Los Angeles,Dessert,Chocolate Lava Cake,3,8,24,UPI,Dine In,2
+1575,2026-07-28,C299,Houston,Drinks & Sides,Garlic Bread,3,6,18,UPI,Takeaway,5
+1576,2026-07-29,C455,San Jose,Drinks & Sides,Mozzarella Sticks,4,7,28,Cash,Dine In,4
+1577,2026-07-29,C308,Houston,Pizza,Veggie Supreme Pizza,2,17,34,Cash,Dine In,5
+1578,2026-07-30,C586,Los Angeles,Pizza,BBQ Chicken Pizza,4,19,76,Card,Delivery,4
+1579,2026-07-30,C244,New York,Drinks & Sides,Coca Cola,2,3,6,Card,Dine In,1
+1580,2026-07-30,C214,San Antonio,Dessert,Chocolate Lava Cake,4,8,32,UPI,Takeaway,5
+1581,2026-07-31,C514,San Diego,Pizza,Pepperoni Pizza,4,18,72,UPI,Takeaway,5
+1582,2026-07-31,C293,New York,Dessert,Chocolate Lava Cake,4,8,32,Cash,Delivery,5
+1583,2026-07-31,C500,Dallas,Drinks & Sides,Iced Tea,1,3,3,Cash,Dine In,5
+1584,2026-08-01,C140,Los Angeles,Pizza,Pepperoni Pizza,3,18,54,Cash,Dine In,5
+1585,2026-08-01,C159,New York,Drinks & Sides,Garlic Bread,2,6,12,Cash,Delivery,4
+1586,2026-08-01,C319,Philadelphia,Drinks & Sides,Iced Tea,3,3,9,Cash,Dine In,4
+1587,2026-08-02,C492,San Jose,Pizza,Veggie Supreme Pizza,2,17,34,Card,Takeaway,5
+1588,2026-08-02,C208,Philadelphia,Drinks & Sides,Iced Tea,3,3,9,Cash,Dine In,4
+1589,2026-08-03,C325,San Antonio,Drinks & Sides,Coca Cola,4,3,12,Cash,Takeaway,5
+1590,2026-08-03,C345,San Antonio,Dessert,Chocolate Lava Cake,3,8,24,Card,Dine In,5
+1591,2026-08-03,C266,Dallas,Drinks & Sides,Chicken Wings,3,9,27,UPI,Dine In,4
+1592,2026-08-04,C556,Chicago,Drinks & Sides,Iced Tea,1,3,3,UPI,Delivery,3
+1593,2026-08-04,C156,Los Angeles,Pizza,Veggie Supreme Pizza,4,17,68,Cash,Dine In,5
+1594,2026-08-04,C256,New York,Pizza,BBQ Chicken Pizza,1,19,19,Cash,Dine In,4
+1595,2026-08-05,C269,Houston,Drinks & Sides,Mozzarella Sticks,1,7,7,Card,Takeaway,5
+1596,2026-08-05,C214,San Antonio,Drinks & Sides,Coca Cola,2,3,6,Card,Delivery,2
+1597,2026-08-05,C499,San Antonio,Pizza,BBQ Chicken Pizza,4,19,76,Cash,Takeaway,5
+1598,2026-08-06,C357,Chicago,Drinks & Sides,Garlic Bread,1,6,6,Cash,Delivery,4
+1599,2026-08-06,C525,Phoenix,Pizza,BBQ Chicken Pizza,1,19,19,UPI,Delivery,3
+1600,2026-08-07,C145,New York,Drinks & Sides,Garlic Bread,3,6,18,Cash,Dine In,3
+1601,2026-08-07,C120,Philadelphia,Drinks & Sides,Chicken Wings,4,9,36,UPI,Takeaway,1
+1602,2026-08-07,C147,Houston,Pizza,Veggie Supreme Pizza,4,17,68,UPI,Delivery,4
+1603,2026-08-08,C477,Phoenix,Dessert,Chocolate Lava Cake,1,8,8,Cash,Dine In,3
+1604,2026-08-08,C587,Phoenix,Pizza,BBQ Chicken Pizza,3,19,57,Cash,Dine In,5
+1605,2026-08-08,C160,San Antonio,Pizza,BBQ Chicken Pizza,2,19,38,UPI,Delivery,5
+1606,2026-08-09,C453,New York,Drinks & Sides,Chicken Wings,4,9,36,Cash,Delivery,3
+1607,2026-08-09,C284,San Diego,Drinks & Sides,Mozzarella Sticks,2,7,14,Card,Takeaway,3
+1608,2026-08-09,C238,San Diego,Drinks & Sides,Mozzarella Sticks,1,7,7,Cash,Delivery,4
+1609,2026-08-10,C512,San Antonio,Pizza,Pepperoni Pizza,2,18,36,UPI,Delivery,4
+1610,2026-08-10,C546,New York,Drinks & Sides,Coca Cola,4,3,12,UPI,Dine In,3
+1611,2026-08-11,C517,New York,Drinks & Sides,Garlic Bread,2,6,12,Cash,Delivery,3
+1612,2026-08-11,C432,Chicago,Drinks & Sides,Mozzarella Sticks,3,7,21,Cash,Dine In,4
+1613,2026-08-11,C114,New York,Drinks & Sides,Garlic Bread,2,6,12,UPI,Delivery,4
+1614,2026-08-12,C166,Phoenix,Drinks & Sides,Garlic Bread,2,6,12,Cash,Takeaway,1
+1615,2026-08-12,C494,Dallas,Dessert,Chocolate Lava Cake,4,8,32,Cash,Takeaway,4
+1616,2026-08-12,C589,Los Angeles,Drinks & Sides,Mozzarella Sticks,1,7,7,Card,Dine In,3
+1617,2026-08-13,C359,Dallas,Drinks & Sides,Iced Tea,3,3,9,Card,Takeaway,2
+1618,2026-08-13,C231,Houston,Pizza,Margherita Pizza,2,15,30,Cash,Dine In,5
+1619,2026-08-13,C257,San Diego,Pizza,BBQ Chicken Pizza,4,19,76,Card,Dine In,4
+1620,2026-08-14,C143,Chicago,Drinks & Sides,Garlic Bread,2,6,12,Cash,Dine In,3
+1621,2026-08-14,C100,San Jose,Pizza,BBQ Chicken Pizza,2,19,38,Cash,Dine In,4
+1622,2026-08-15,C325,Chicago,Drinks & Sides,Garlic Bread,4,6,24,UPI,Dine In,3
+1623,2026-08-15,C509,Houston,Pizza,Veggie Supreme Pizza,2,17,34,Cash,Takeaway,5
+1624,2026-08-15,C315,San Antonio,Dessert,Apple Pie,2,6,12,Card,Dine In,1
+1625,2026-08-16,C141,San Antonio,Dessert,Chocolate Lava Cake,2,8,16,UPI,Takeaway,4
+1626,2026-08-16,C254,Chicago,Drinks & Sides,Mozzarella Sticks,4,7,28,Cash,Dine In,4
+1627,2026-08-16,C201,Chicago,Dessert,Chocolate Lava Cake,1,8,8,Cash,Dine In,4
+1628,2026-08-17,C147,Chicago,Dessert,Apple Pie,2,6,12,Card,Dine In,4
+1629,2026-08-17,C447,Los Angeles,Pizza,Pepperoni Pizza,3,18,54,Card,Delivery,5
+1630,2026-08-17,C221,Philadelphia,Pizza,Margherita Pizza,2,15,30,UPI,Takeaway,4
+1631,2026-08-18,C524,San Jose,Dessert,Apple Pie,1,6,6,Card,Dine In,4
+1632,2026-08-18,C539,Los Angeles,Pizza,BBQ Chicken Pizza,2,19,38,UPI,Takeaway,5
+1633,2026-08-19,C273,Dallas,Dessert,Chocolate Lava Cake,4,8,32,UPI,Delivery,4
+1634,2026-08-19,C534,Chicago,Pizza,Pepperoni Pizza,1,18,18,UPI,Takeaway,3
+1635,2026-08-19,C117,Houston,Dessert,Apple Pie,1,6,6,UPI,Takeaway,5
+1636,2026-08-20,C313,Los Angeles,Dessert,Chocolate Lava Cake,1,8,8,UPI,Takeaway,3
+1637,2026-08-20,C290,New York,Dessert,Apple Pie,1,6,6,UPI,Delivery,4
+1638,2026-08-20,C232,Dallas,Pizza,Veggie Supreme Pizza,4,17,68,Cash,Takeaway,5
+1639,2026-08-21,C366,Philadelphia,Dessert,Chocolate Lava Cake,3,8,24,UPI,Delivery,4
+1640,2026-08-21,C522,San Diego,Pizza,BBQ Chicken Pizza,4,19,76,UPI,Delivery,5
+1641,2026-08-21,C121,Philadelphia,Drinks & Sides,Iced Tea,1,3,3,Card,Takeaway,3
+1642,2026-08-22,C202,Los Angeles,Pizza,Margherita Pizza,2,15,30,UPI,Dine In,5
+1643,2026-08-22,C161,San Jose,Drinks & Sides,Garlic Bread,3,6,18,Card,Delivery,5
+1644,2026-08-23,C588,New York,Pizza,Margherita Pizza,2,15,30,UPI,Takeaway,1
+1645,2026-08-23,C253,Dallas,Drinks & Sides,Coca Cola,2,3,6,Card,Takeaway,1
+1646,2026-08-23,C219,San Diego,Pizza,Pepperoni Pizza,2,18,36,Cash,Takeaway,1
+1647,2026-08-24,C439,Houston,Drinks & Sides,Chicken Wings,1,9,9,UPI,Dine In,1
+1648,2026-08-24,C160,Houston,Drinks & Sides,Iced Tea,3,3,9,UPI,Delivery,5
+1649,2026-08-24,C584,Phoenix,Drinks & Sides,Iced Tea,1,3,3,Card,Delivery,5
+1650,2026-08-25,C178,Dallas,Drinks & Sides,Chicken Wings,4,9,36,Card,Takeaway,4
+1651,2026-08-25,C182,San Diego,Pizza,BBQ Chicken Pizza,4,19,76,Cash,Dine In,4
+1652,2026-08-25,C275,Phoenix,Dessert,Chocolate Lava Cake,4,8,32,Card,Takeaway,3
+1653,2026-08-26,C403,San Diego,Pizza,Pepperoni Pizza,4,18,72,UPI,Takeaway,4
+1654,2026-08-26,C518,San Diego,Pizza,Margherita Pizza,2,15,30,Cash,Dine In,5
+1655,2026-08-27,C597,San Diego,Drinks & Sides,Garlic Bread,1,6,6,Cash,Dine In,5
+1656,2026-08-27,C322,Dallas,Drinks & Sides,Coca Cola,1,3,3,Cash,Delivery,5
+1657,2026-08-27,C414,Los Angeles,Drinks & Sides,Coca Cola,2,3,6,UPI,Takeaway,5
+1658,2026-08-28,C299,Phoenix,Drinks & Sides,Mozzarella Sticks,1,7,7,Cash,Takeaway,3
+1659,2026-08-28,C237,Los Angeles,Dessert,Chocolate Lava Cake,3,8,24,Cash,Takeaway,5
+1660,2026-08-28,C547,San Jose,Dessert,Chocolate Lava Cake,4,8,32,UPI,Dine In,5
+1661,2026-08-29,C459,San Diego,Drinks & Sides,Coca Cola,3,3,9,Card,Dine In,5
+1662,2026-08-29,C336,New York,Drinks & Sides,Garlic Bread,2,6,12,UPI,Takeaway,4
+1663,2026-08-29,C495,San Antonio,Dessert,Chocolate Lava Cake,3,8,24,Cash,Delivery,2
+1664,2026-08-30,C331,San Jose,Drinks & Sides,Garlic Bread,2,6,12,UPI,Delivery,5
+1665,2026-08-30,C109,New York,Pizza,Veggie Supreme Pizza,2,17,34,UPI,Dine In,5
+1666,2026-08-31,C141,San Antonio,Drinks & Sides,Garlic Bread,1,6,6,UPI,Delivery,2
+1667,2026-08-31,C556,Philadelphia,Dessert,Apple Pie,3,6,18,Cash,Delivery,5
+1668,2026-08-31,C256,San Jose,Drinks & Sides,Garlic Bread,4,6,24,UPI,Takeaway,4
+1669,2026-09-01,C402,Houston,Drinks & Sides,Mozzarella Sticks,2,7,14,UPI,Takeaway,4
+1670,2026-09-01,C596,Philadelphia,Pizza,Veggie Supreme Pizza,2,17,34,UPI,Dine In,5
+1671,2026-09-01,C145,Dallas,Pizza,Veggie Supreme Pizza,3,17,51,UPI,Takeaway,4
+1672,2026-09-02,C418,San Jose,Pizza,Pepperoni Pizza,1,18,18,UPI,Dine In,3
+1673,2026-09-02,C139,San Jose,Dessert,Chocolate Lava Cake,3,8,24,UPI,Takeaway,5
+1674,2026-09-02,C431,Phoenix,Drinks & Sides,Iced Tea,4,3,12,Cash,Dine In,5
+1675,2026-09-03,C488,San Diego,Drinks & Sides,Chicken Wings,3,9,27,UPI,Dine In,5
+1676,2026-09-03,C313,Houston,Pizza,Pepperoni Pizza,3,18,54,Card,Delivery,4
+1677,2026-09-04,C470,San Jose,Drinks & Sides,Chicken Wings,2,9,18,Card,Takeaway,4
+1678,2026-09-04,C102,Los Angeles,Pizza,Pepperoni Pizza,2,18,36,UPI,Delivery,4
+1679,2026-09-04,C259,San Diego,Drinks & Sides,Garlic Bread,2,6,12,UPI,Dine In,4
+1680,2026-09-05,C407,Los Angeles,Drinks & Sides,Garlic Bread,3,6,18,Cash,Takeaway,4
+1681,2026-09-05,C457,Phoenix,Pizza,Pepperoni Pizza,4,18,72,Card,Delivery,3
+1682,2026-09-05,C546,San Antonio,Drinks & Sides,Coca Cola,4,3,12,Card,Takeaway,4
+1683,2026-09-06,C475,Los Angeles,Pizza,Veggie Supreme Pizza,2,17,34,Cash,Dine In,4
+1684,2026-09-06,C571,Los Angeles,Pizza,Margherita Pizza,3,15,45,Cash,Delivery,5
+1685,2026-09-06,C161,Dallas,Pizza,Margherita Pizza,2,15,30,UPI,Takeaway,4
+1686,2026-09-07,C312,San Jose,Drinks & Sides,Chicken Wings,1,9,9,Cash,Delivery,5
+1687,2026-09-07,C550,Chicago,Pizza,Pepperoni Pizza,1,18,18,UPI,Delivery,4
+1688,2026-09-08,C493,Houston,Dessert,Chocolate Lava Cake,1,8,8,UPI,Delivery,5
+1689,2026-09-08,C362,San Diego,Drinks & Sides,Garlic Bread,3,6,18,Cash,Takeaway,5
+1690,2026-09-08,C175,Philadelphia,Pizza,Margherita Pizza,4,15,60,Cash,Takeaway,2
+1691,2026-09-09,C443,Los Angeles,Dessert,Chocolate Lava Cake,1,8,8,Card,Delivery,5
+1692,2026-09-09,C168,Chicago,Drinks & Sides,Chicken Wings,4,9,36,Cash,Delivery,1
+1693,2026-09-09,C176,San Diego,Dessert,Chocolate Lava Cake,2,8,16,UPI,Takeaway,5
+1694,2026-09-10,C591,Dallas,Pizza,Pepperoni Pizza,1,18,18,Cash,Delivery,5
+1695,2026-09-10,C587,Phoenix,Dessert,Chocolate Lava Cake,4,8,32,Cash,Dine In,4
+1696,2026-09-10,C184,New York,Drinks & Sides,Coca Cola,3,3,9,Card,Delivery,4
+1697,2026-09-11,C364,San Jose,Pizza,BBQ Chicken Pizza,4,19,76,UPI,Dine In,5
+1698,2026-09-11,C128,San Antonio,Drinks & Sides,Iced Tea,3,3,9,Cash,Takeaway,5
+1699,2026-09-12,C158,Dallas,Drinks & Sides,Coca Cola,1,3,3,Card,Dine In,5
+1700,2026-09-12,C143,San Antonio,Pizza,Pepperoni Pizza,3,18,54,Cash,Takeaway,4
+1701,2026-09-12,C154,Dallas,Pizza,Veggie Supreme Pizza,2,17,34,UPI,Delivery,4
+1702,2026-09-13,C360,Phoenix,Dessert,Chocolate Lava Cake,3,8,24,Cash,Delivery,5
+1703,2026-09-13,C460,Chicago,Pizza,Pepperoni Pizza,4,18,72,Card,Takeaway,5
+1704,2026-09-13,C501,Dallas,Drinks & Sides,Chicken Wings,1,9,9,Card,Takeaway,4
+1705,2026-09-14,C357,New York,Drinks & Sides,Mozzarella Sticks,4,7,28,Card,Delivery,4
+1706,2026-09-14,C242,San Diego,Pizza,Veggie Supreme Pizza,2,17,34,Card,Takeaway,3
+1707,2026-09-14,C170,San Jose,Pizza,Veggie Supreme Pizza,4,17,68,Cash,Takeaway,3
+1708,2026-09-15,C164,Phoenix,Drinks & Sides,Iced Tea,3,3,9,Cash,Dine In,4
+1709,2026-09-15,C531,San Antonio,Dessert,Apple Pie,1,6,6,UPI,Takeaway,5
+1710,2026-09-16,C242,Chicago,Drinks & Sides,Chicken Wings,1,9,9,UPI,Takeaway,5
+1711,2026-09-16,C525,Philadelphia,Drinks & Sides,Chicken Wings,1,9,9,Cash,Dine In,5
+1712,2026-09-16,C586,Chicago,Pizza,Veggie Supreme Pizza,3,17,51,UPI,Takeaway,2
+1713,2026-09-17,C551,Chicago,Pizza,Margherita Pizza,3,15,45,UPI,Delivery,4
+1714,2026-09-17,C150,Philadelphia,Pizza,Veggie Supreme Pizza,3,17,51,Cash,Delivery,3
+1715,2026-09-17,C329,Philadelphia,Pizza,BBQ Chicken Pizza,1,19,19,Card,Delivery,4
+1716,2026-09-18,C385,Dallas,Drinks & Sides,Mozzarella Sticks,1,7,7,UPI,Takeaway,4
+1717,2026-09-18,C316,San Diego,Drinks & Sides,Mozzarella Sticks,1,7,7,UPI,Dine In,5
+1718,2026-09-18,C276,Philadelphia,Dessert,Apple Pie,3,6,18,UPI,Dine In,5
+1719,2026-09-19,C253,Dallas,Pizza,BBQ Chicken Pizza,1,19,19,Cash,Dine In,2
+1720,2026-09-19,C454,San Diego,Pizza,BBQ Chicken Pizza,1,19,19,UPI,Dine In,5
+1721,2026-09-20,C353,Phoenix,Drinks & Sides,Coca Cola,2,3,6,Cash,Dine In,5
+1722,2026-09-20,C430,Phoenix,Pizza,Margherita Pizza,4,15,60,Cash,Delivery,5
+1723,2026-09-20,C202,San Jose,Drinks & Sides,Iced Tea,2,3,6,UPI,Takeaway,4
+1724,2026-09-21,C254,San Antonio,Dessert,Chocolate Lava Cake,1,8,8,UPI,Dine In,5
+1725,2026-09-21,C402,San Diego,Drinks & Sides,Mozzarella Sticks,1,7,7,Cash,Dine In,4
+1726,2026-09-21,C248,Chicago,Pizza,Margherita Pizza,2,15,30,Cash,Dine In,5
+1727,2026-09-22,C276,Dallas,Drinks & Sides,Chicken Wings,2,9,18,UPI,Takeaway,4
+1728,2026-09-22,C423,New York,Drinks & Sides,Garlic Bread,4,6,24,Cash,Dine In,5
+1729,2026-09-22,C258,Dallas,Pizza,Margherita Pizza,3,15,45,UPI,Delivery,4
+1730,2026-09-23,C246,Los Angeles,Drinks & Sides,Garlic Bread,4,6,24,Card,Dine In,5
+1731,2026-09-23,C237,Houston,Pizza,Pepperoni Pizza,1,18,18,UPI,Delivery,4
+1732,2026-09-24,C393,Philadelphia,Pizza,Veggie Supreme Pizza,4,17,68,UPI,Dine In,3
+1733,2026-09-24,C360,Houston,Pizza,Pepperoni Pizza,3,18,54,Card,Dine In,5
+1734,2026-09-24,C397,Philadelphia,Drinks & Sides,Mozzarella Sticks,2,7,14,Card,Dine In,5
+1735,2026-09-25,C501,San Antonio,Drinks & Sides,Coca Cola,2,3,6,UPI,Dine In,4
+1736,2026-09-25,C231,Dallas,Drinks & Sides,Mozzarella Sticks,4,7,28,Card,Takeaway,5
+1737,2026-09-25,C280,San Jose,Drinks & Sides,Mozzarella Sticks,1,7,7,Cash,Delivery,5
+1738,2026-09-26,C356,New York,Dessert,Chocolate Lava Cake,3,8,24,UPI,Takeaway,1
+1739,2026-09-26,C407,Houston,Dessert,Chocolate Lava Cake,3,8,24,UPI,Dine In,4
+1740,2026-09-26,C398,San Diego,Drinks & Sides,Garlic Bread,2,6,12,UPI,Takeaway,4
+1741,2026-09-27,C447,Los Angeles,Pizza,Pepperoni Pizza,3,18,54,UPI,Delivery,5
+1742,2026-09-27,C462,Dallas,Dessert,Chocolate Lava Cake,3,8,24,UPI,Dine In,4
+1743,2026-09-28,C107,Los Angeles,Pizza,Margherita Pizza,2,15,30,UPI,Takeaway,4
+1744,2026-09-28,C579,San Antonio,Drinks & Sides,Mozzarella Sticks,2,7,14,Cash,Takeaway,5
+1745,2026-09-28,C425,Dallas,Pizza,Veggie Supreme Pizza,1,17,17,UPI,Delivery,3
+1746,2026-09-29,C360,San Jose,Pizza,Margherita Pizza,4,15,60,Cash,Dine In,5
+1747,2026-09-29,C244,San Diego,Drinks & Sides,Iced Tea,3,3,9,UPI,Dine In,5
+1748,2026-09-29,C222,Phoenix,Drinks & Sides,Garlic Bread,3,6,18,UPI,Delivery,5
+1749,2026-09-30,C321,San Jose,Dessert,Apple Pie,2,6,12,Card,Takeaway,5
+1750,2026-09-30,C400,New York,Pizza,Margherita Pizza,1,15,15,Cash,Dine In,4
+1751,2026-10-01,C466,San Diego,Drinks & Sides,Garlic Bread,4,6,24,Cash,Dine In,5
+1752,2026-10-01,C572,San Antonio,Pizza,Margherita Pizza,2,15,30,UPI,Dine In,3
+1753,2026-10-01,C442,Dallas,Pizza,Margherita Pizza,1,15,15,Card,Dine In,5
+1754,2026-10-02,C239,Phoenix,Drinks & Sides,Mozzarella Sticks,3,7,21,Card,Dine In,4
+1755,2026-10-02,C325,Houston,Drinks & Sides,Garlic Bread,2,6,12,Cash,Dine In,4
+1756,2026-10-02,C249,San Antonio,Drinks & Sides,Coca Cola,3,3,9,Card,Takeaway,4
+1757,2026-10-03,C137,San Antonio,Pizza,Veggie Supreme Pizza,4,17,68,Cash,Takeaway,5
+1758,2026-10-03,C199,San Antonio,Drinks & Sides,Coca Cola,3,3,9,Card,Delivery,3
+1759,2026-10-03,C117,Houston,Pizza,Pepperoni Pizza,1,18,18,Cash,Delivery,5
+1760,2026-10-04,C229,Dallas,Drinks & Sides,Mozzarella Sticks,3,7,21,UPI,Takeaway,5
+1761,2026-10-04,C365,San Jose,Drinks & Sides,Mozzarella Sticks,3,7,21,UPI,Delivery,2
+1762,2026-10-05,C297,Los Angeles,Pizza,Veggie Supreme Pizza,1,17,17,Card,Delivery,1
+1763,2026-10-05,C447,Houston,Dessert,Chocolate Lava Cake,2,8,16,UPI,Dine In,4
+1764,2026-10-05,C459,Chicago,Drinks & Sides,Coca Cola,4,3,12,Card,Dine In,4
+1765,2026-10-06,C212,Philadelphia,Pizza,Margherita Pizza,1,15,15,UPI,Delivery,5
+1766,2026-10-06,C128,San Jose,Drinks & Sides,Coca Cola,4,3,12,UPI,Delivery,4
+1767,2026-10-06,C577,Los Angeles,Pizza,Pepperoni Pizza,1,18,18,Cash,Delivery,5
+1768,2026-10-07,C494,Los Angeles,Pizza,Pepperoni Pizza,3,18,54,Card,Delivery,5
+1769,2026-10-07,C109,San Diego,Pizza,Veggie Supreme Pizza,4,17,68,Cash,Dine In,2
+1770,2026-10-07,C186,Los Angeles,Dessert,Chocolate Lava Cake,3,8,24,UPI,Dine In,4
+1771,2026-10-08,C453,Dallas,Pizza,Margherita Pizza,3,15,45,UPI,Dine In,1
+1772,2026-10-08,C179,Dallas,Drinks & Sides,Iced Tea,2,3,6,UPI,Takeaway,2
+1773,2026-10-09,C300,Los Angeles,Drinks & Sides,Mozzarella Sticks,2,7,14,Cash,Takeaway,5
+1774,2026-10-09,C324,Dallas,Drinks & Sides,Coca Cola,1,3,3,Card,Dine In,5
+1775,2026-10-09,C419,San Diego,Drinks & Sides,Mozzarella Sticks,1,7,7,UPI,Dine In,4
+1776,2026-10-10,C213,Chicago,Drinks & Sides,Garlic Bread,1,6,6,Cash,Dine In,3
+1777,2026-10-10,C307,San Jose,Dessert,Chocolate Lava Cake,2,8,16,UPI,Delivery,5
+1778,2026-10-10,C184,Phoenix,Pizza,Margherita Pizza,3,15,45,UPI,Dine In,3
+1779,2026-10-11,C326,Chicago,Drinks & Sides,Mozzarella Sticks,2,7,14,UPI,Delivery,5
+1780,2026-10-11,C106,San Diego,Drinks & Sides,Coca Cola,2,3,6,UPI,Dine In,5
+1781,2026-10-11,C285,San Jose,Dessert,Chocolate Lava Cake,3,8,24,UPI,Dine In,5
+1782,2026-10-12,C308,San Diego,Pizza,Margherita Pizza,4,15,60,Card,Delivery,5
+1783,2026-10-12,C293,San Jose,Pizza,Pepperoni Pizza,3,18,54,Cash,Delivery,4
+1784,2026-10-13,C483,Philadelphia,Drinks & Sides,Coca Cola,1,3,3,UPI,Dine In,5
+1785,2026-10-13,C378,San Diego,Pizza,Margherita Pizza,2,15,30,Cash,Takeaway,4
+1786,2026-10-13,C470,Philadelphia,Dessert,Chocolate Lava Cake,1,8,8,Cash,Takeaway,3
+1787,2026-10-14,C444,Houston,Pizza,Margherita Pizza,4,15,60,Card,Dine In,5
+1788,2026-10-14,C184,Los Angeles,Pizza,Margherita Pizza,4,15,60,UPI,Takeaway,5
+1789,2026-10-14,C302,Los Angeles,Dessert,Apple Pie,2,6,12,Cash,Takeaway,4
+1790,2026-10-15,C581,Chicago,Drinks & Sides,Coca Cola,1,3,3,UPI,Dine In,4
+1791,2026-10-15,C410,Phoenix,Pizza,Pepperoni Pizza,4,18,72,Card,Takeaway,3
+1792,2026-10-15,C504,San Jose,Drinks & Sides,Mozzarella Sticks,1,7,7,Card,Takeaway,5
+1793,2026-10-16,C111,Dallas,Drinks & Sides,Coca Cola,4,3,12,UPI,Dine In,3
+1794,2026-10-16,C133,San Diego,Pizza,Pepperoni Pizza,3,18,54,Cash,Dine In,5
+1795,2026-10-17,C107,San Jose,Dessert,Apple Pie,3,6,18,Card,Delivery,5
+1796,2026-10-17,C453,Phoenix,Pizza,Veggie Supreme Pizza,2,17,34,Cash,Dine In,4
+1797,2026-10-17,C539,Philadelphia,Dessert,Apple Pie,3,6,18,UPI,Dine In,5
+1798,2026-10-18,C230,Los Angeles,Drinks & Sides,Iced Tea,4,3,12,Cash,Takeaway,5
+1799,2026-10-18,C523,New York,Drinks & Sides,Coca Cola,2,3,6,Card,Takeaway,3
+1800,2026-10-18,C329,Philadelphia,Drinks & Sides,Chicken Wings,4,9,36,Cash,Dine In,4
+1801,2026-10-19,C301,San Diego,Pizza,Pepperoni Pizza,2,18,36,UPI,Delivery,2
+1802,2026-10-19,C328,San Antonio,Pizza,Margherita Pizza,4,15,60,Cash,Delivery,5
+1803,2026-10-19,C227,Los Angeles,Drinks & Sides,Garlic Bread,3,6,18,Card,Delivery,5
+1804,2026-10-20,C300,San Jose,Drinks & Sides,Garlic Bread,3,6,18,UPI,Takeaway,2
+1805,2026-10-20,C586,San Diego,Drinks & Sides,Garlic Bread,4,6,24,Cash,Dine In,4
+1806,2026-10-21,C437,San Antonio,Drinks & Sides,Coca Cola,3,3,9,Card,Delivery,4
+1807,2026-10-21,C500,Los Angeles,Dessert,Chocolate Lava Cake,1,8,8,UPI,Dine In,5
+1808,2026-10-21,C164,Philadelphia,Pizza,Veggie Supreme Pizza,2,17,34,Cash,Dine In,5
+1809,2026-10-22,C359,Dallas,Pizza,Veggie Supreme Pizza,1,17,17,Cash,Dine In,5
+1810,2026-10-22,C528,Chicago,Drinks & Sides,Iced Tea,1,3,3,Card,Delivery,2
+1811,2026-10-22,C251,San Jose,Drinks & Sides,Iced Tea,1,3,3,Card,Delivery,4
+1812,2026-10-23,C459,Los Angeles,Drinks & Sides,Mozzarella Sticks,1,7,7,Card,Takeaway,4
+1813,2026-10-23,C552,New York,Pizza,Pepperoni Pizza,4,18,72,Cash,Dine In,4
+1814,2026-10-23,C260,Houston,Drinks & Sides,Garlic Bread,1,6,6,Card,Dine In,4
+1815,2026-10-24,C159,Chicago,Pizza,Veggie Supreme Pizza,1,17,17,Card,Takeaway,5
+1816,2026-10-24,C239,Philadelphia,Pizza,BBQ Chicken Pizza,4,19,76,UPI,Takeaway,4
+1817,2026-10-25,C320,Dallas,Dessert,Apple Pie,2,6,12,Cash,Dine In,4
+1818,2026-10-25,C347,Philadelphia,Pizza,Pepperoni Pizza,3,18,54,Cash,Dine In,5
+1819,2026-10-25,C292,San Antonio,Drinks & Sides,Iced Tea,2,3,6,Cash,Takeaway,5
+1820,2026-10-26,C337,Phoenix,Pizza,Margherita Pizza,3,15,45,UPI,Delivery,4
+1821,2026-10-26,C157,New York,Drinks & Sides,Chicken Wings,4,9,36,UPI,Takeaway,5
+1822,2026-10-26,C403,Phoenix,Pizza,Pepperoni Pizza,4,18,72,Card,Takeaway,5
+1823,2026-10-27,C224,San Diego,Pizza,Veggie Supreme Pizza,1,17,17,Card,Takeaway,5
+1824,2026-10-27,C250,San Diego,Pizza,Veggie Supreme Pizza,4,17,68,UPI,Delivery,3
+1825,2026-10-27,C570,Phoenix,Drinks & Sides,Garlic Bread,1,6,6,Card,Takeaway,3
+1826,2026-10-28,C453,San Diego,Drinks & Sides,Chicken Wings,3,9,27,Cash,Dine In,5
+1827,2026-10-28,C371,Houston,Drinks & Sides,Mozzarella Sticks,2,7,14,Cash,Delivery,4
+1828,2026-10-29,C221,Chicago,Pizza,Margherita Pizza,1,15,15,Cash,Delivery,5
+1829,2026-10-29,C544,Phoenix,Drinks & Sides,Garlic Bread,1,6,6,Cash,Takeaway,3
+1830,2026-10-29,C589,Philadelphia,Drinks & Sides,Coca Cola,1,3,3,Cash,Takeaway,5
+1831,2026-10-30,C191,Dallas,Pizza,Pepperoni Pizza,2,18,36,Card,Takeaway,4
+1832,2026-10-30,C378,Houston,Dessert,Chocolate Lava Cake,4,8,32,Cash,Delivery,5
+1833,2026-10-30,C364,New York,Dessert,Chocolate Lava Cake,4,8,32,Card,Delivery,4
+1834,2026-10-31,C272,Phoenix,Drinks & Sides,Coca Cola,4,3,12,Card,Takeaway,4
+1835,2026-10-31,C156,Los Angeles,Pizza,Pepperoni Pizza,2,18,36,Card,Delivery,4
+1836,2026-10-31,C456,Dallas,Drinks & Sides,Iced Tea,2,3,6,UPI,Dine In,4
+1837,2026-11-01,C179,San Jose,Drinks & Sides,Garlic Bread,2,6,12,UPI,Dine In,2
+1838,2026-11-01,C442,San Diego,Pizza,Pepperoni Pizza,1,18,18,Cash,Delivery,4
+1839,2026-11-02,C316,Los Angeles,Drinks & Sides,Coca Cola,4,3,12,Cash,Takeaway,4
+1840,2026-11-02,C456,Dallas,Pizza,Veggie Supreme Pizza,1,17,17,UPI,Takeaway,4
+1841,2026-11-02,C158,San Jose,Pizza,Margherita Pizza,1,15,15,Card,Delivery,4
+1842,2026-11-03,C180,Chicago,Pizza,Veggie Supreme Pizza,4,17,68,UPI,Delivery,4
+1843,2026-11-03,C484,Chicago,Pizza,Pepperoni Pizza,4,18,72,UPI,Delivery,4
+1844,2026-11-03,C199,Dallas,Pizza,Veggie Supreme Pizza,1,17,17,UPI,Delivery,4
+1845,2026-11-04,C242,Houston,Dessert,Apple Pie,3,6,18,UPI,Dine In,5
+1846,2026-11-04,C286,Philadelphia,Drinks & Sides,Iced Tea,2,3,6,Card,Delivery,4
+1847,2026-11-04,C121,Houston,Dessert,Chocolate Lava Cake,2,8,16,Card,Takeaway,4
+1848,2026-11-05,C254,Chicago,Drinks & Sides,Iced Tea,2,3,6,Card,Dine In,5
+1849,2026-11-05,C470,San Diego,Pizza,Margherita Pizza,4,15,60,Card,Dine In,4
+1850,2026-11-06,C346,Phoenix,Drinks & Sides,Chicken Wings,1,9,9,Card,Delivery,3
+1851,2026-11-06,C485,Phoenix,Drinks & Sides,Chicken Wings,1,9,9,Cash,Dine In,4
+1852,2026-11-06,C186,Philadelphia,Dessert,Chocolate Lava Cake,1,8,8,Cash,Takeaway,5
+1853,2026-11-07,C301,Philadelphia,Drinks & Sides,Mozzarella Sticks,3,7,21,Cash,Dine In,4
+1854,2026-11-07,C179,Los Angeles,Pizza,Margherita Pizza,1,15,15,Card,Delivery,3
+1855,2026-11-07,C358,Phoenix,Drinks & Sides,Chicken Wings,1,9,9,UPI,Takeaway,3
+1856,2026-11-08,C579,Dallas,Pizza,Margherita Pizza,4,15,60,Cash,Dine In,3
+1857,2026-11-08,C596,New York,Dessert,Chocolate Lava Cake,1,8,8,UPI,Delivery,4
+1858,2026-11-08,C164,Dallas,Pizza,BBQ Chicken Pizza,2,19,38,Cash,Delivery,5
+1859,2026-11-09,C208,Philadelphia,Drinks & Sides,Garlic Bread,1,6,6,UPI,Delivery,1
+1860,2026-11-09,C574,San Jose,Dessert,Chocolate Lava Cake,3,8,24,Card,Takeaway,3
+1861,2026-11-10,C447,New York,Pizza,Veggie Supreme Pizza,1,17,17,UPI,Dine In,3
+1862,2026-11-10,C533,San Antonio,Drinks & Sides,Garlic Bread,3,6,18,Cash,Takeaway,4
+1863,2026-11-10,C194,San Antonio,Drinks & Sides,Chicken Wings,3,9,27,Card,Takeaway,5
+1864,2026-11-11,C161,Chicago,Drinks & Sides,Coca Cola,2,3,6,UPI,Takeaway,3
+1865,2026-11-11,C121,San Jose,Pizza,Veggie Supreme Pizza,1,17,17,Card,Takeaway,5
+1866,2026-11-11,C248,San Diego,Dessert,Apple Pie,1,6,6,Cash,Delivery,5
+1867,2026-11-12,C295,Phoenix,Pizza,Margherita Pizza,1,15,15,Cash,Takeaway,4
+1868,2026-11-12,C283,San Diego,Drinks & Sides,Garlic Bread,2,6,12,Card,Delivery,5
+1869,2026-11-12,C199,Houston,Drinks & Sides,Mozzarella Sticks,4,7,28,Card,Dine In,5
+1870,2026-11-13,C344,Phoenix,Drinks & Sides,Mozzarella Sticks,2,7,14,UPI,Takeaway,5
+1871,2026-11-13,C528,New York,Drinks & Sides,Garlic Bread,2,6,12,Cash,Dine In,5
+1872,2026-11-14,C127,Houston,Pizza,Veggie Supreme Pizza,4,17,68,Card,Dine In,4
+1873,2026-11-14,C505,Los Angeles,Dessert,Apple Pie,3,6,18,Card,Dine In,4
+1874,2026-11-14,C411,San Antonio,Pizza,BBQ Chicken Pizza,4,19,76,Cash,Delivery,4
+1875,2026-11-15,C458,Los Angeles,Drinks & Sides,Chicken Wings,1,9,9,Card,Delivery,1
+1876,2026-11-15,C403,Houston,Dessert,Apple Pie,1,6,6,UPI,Takeaway,5
+1877,2026-11-15,C569,San Diego,Drinks & Sides,Coca Cola,1,3,3,UPI,Delivery,4
+1878,2026-11-16,C587,Chicago,Pizza,BBQ Chicken Pizza,2,19,38,UPI,Takeaway,5
+1879,2026-11-16,C577,Dallas,Pizza,Margherita Pizza,1,15,15,UPI,Takeaway,5
+1880,2026-11-16,C164,San Diego,Drinks & Sides,Iced Tea,3,3,9,Card,Takeaway,5
+1881,2026-11-17,C432,New York,Pizza,BBQ Chicken Pizza,2,19,38,Card,Dine In,3
+1882,2026-11-17,C361,Philadelphia,Drinks & Sides,Garlic Bread,3,6,18,Cash,Takeaway,4
+1883,2026-11-18,C353,New York,Dessert,Chocolate Lava Cake,1,8,8,Cash,Dine In,5
+1884,2026-11-18,C490,Phoenix,Pizza,Veggie Supreme Pizza,4,17,68,Cash,Dine In,4
+1885,2026-11-18,C147,Chicago,Dessert,Apple Pie,3,6,18,UPI,Delivery,3
+1886,2026-11-19,C337,Dallas,Drinks & Sides,Chicken Wings,2,9,18,Cash,Dine In,4
+1887,2026-11-19,C320,San Diego,Drinks & Sides,Coca Cola,4,3,12,Card,Takeaway,3
+1888,2026-11-19,C459,San Antonio,Drinks & Sides,Mozzarella Sticks,3,7,21,UPI,Takeaway,5
+1889,2026-11-20,C276,Phoenix,Drinks & Sides,Garlic Bread,4,6,24,Cash,Dine In,5
+1890,2026-11-20,C333,San Diego,Drinks & Sides,Chicken Wings,2,9,18,UPI,Takeaway,4
+1891,2026-11-20,C560,San Antonio,Pizza,Pepperoni Pizza,2,18,36,Cash,Takeaway,4
+1892,2026-11-21,C134,Los Angeles,Pizza,Margherita Pizza,1,15,15,UPI,Delivery,4
+1893,2026-11-21,C394,San Jose,Drinks & Sides,Coca Cola,4,3,12,Cash,Dine In,4
+1894,2026-11-22,C152,Philadelphia,Drinks & Sides,Garlic Bread,4,6,24,Card,Delivery,4
+1895,2026-11-22,C290,Los Angeles,Pizza,BBQ Chicken Pizza,1,19,19,Cash,Dine In,5
+1896,2026-11-22,C487,Phoenix,Pizza,BBQ Chicken Pizza,1,19,19,UPI,Delivery,3
+1897,2026-11-23,C169,San Antonio,Dessert,Chocolate Lava Cake,2,8,16,UPI,Dine In,5
+1898,2026-11-23,C390,Los Angeles,Dessert,Chocolate Lava Cake,4,8,32,Cash,Dine In,4
+1899,2026-11-23,C364,San Jose,Drinks & Sides,Chicken Wings,3,9,27,Card,Dine In,5
+1900,2026-11-24,C350,Houston,Pizza,BBQ Chicken Pizza,4,19,76,Card,Dine In,5
+1901,2026-11-24,C256,San Diego,Drinks & Sides,Coca Cola,3,3,9,Cash,Takeaway,5
+1902,2026-11-24,C132,San Antonio,Dessert,Apple Pie,2,6,12,Card,Dine In,5
+1903,2026-11-25,C262,New York,Drinks & Sides,Iced Tea,4,3,12,Cash,Takeaway,5
+1904,2026-11-25,C474,New York,Drinks & Sides,Iced Tea,3,3,9,Cash,Takeaway,4
+1905,2026-11-26,C143,San Jose,Dessert,Apple Pie,3,6,18,Cash,Dine In,5
+1906,2026-11-26,C391,Houston,Drinks & Sides,Mozzarella Sticks,1,7,7,Cash,Dine In,2
+1907,2026-11-26,C371,San Antonio,Pizza,Veggie Supreme Pizza,2,17,34,Card,Takeaway,4
+1908,2026-11-27,C327,Philadelphia,Pizza,BBQ Chicken Pizza,1,19,19,UPI,Dine In,4
+1909,2026-11-27,C207,Houston,Dessert,Chocolate Lava Cake,4,8,32,Card,Dine In,5
+1910,2026-11-27,C194,New York,Dessert,Chocolate Lava Cake,1,8,8,Card,Dine In,5
+1911,2026-11-28,C243,Los Angeles,Drinks & Sides,Chicken Wings,2,9,18,UPI,Takeaway,5
+1912,2026-11-28,C578,Dallas,Pizza,BBQ Chicken Pizza,1,19,19,Card,Dine In,3
+1913,2026-11-28,C415,Houston,Drinks & Sides,Garlic Bread,4,6,24,Cash,Delivery,3
+1914,2026-11-29,C365,San Diego,Drinks & Sides,Iced Tea,3,3,9,Card,Delivery,3
+1915,2026-11-29,C478,Phoenix,Pizza,Veggie Supreme Pizza,4,17,68,Card,Takeaway,5
+1916,2026-11-30,C255,Philadelphia,Dessert,Apple Pie,2,6,12,Card,Takeaway,5
+1917,2026-11-30,C322,New York,Drinks & Sides,Mozzarella Sticks,1,7,7,Card,Dine In,4
+1918,2026-11-30,C153,Dallas,Drinks & Sides,Garlic Bread,1,6,6,UPI,Delivery,5
+1919,2026-12-01,C600,Philadelphia,Pizza,Veggie Supreme Pizza,3,17,51,Cash,Takeaway,5
+1920,2026-12-01,C189,Dallas,Drinks & Sides,Mozzarella Sticks,1,7,7,UPI,Takeaway,3
+1921,2026-12-01,C161,Houston,Pizza,Pepperoni Pizza,4,18,72,UPI,Delivery,4
+1922,2026-12-02,C329,San Jose,Dessert,Apple Pie,3,6,18,Cash,Dine In,4
+1923,2026-12-02,C237,San Jose,Pizza,Pepperoni Pizza,3,18,54,Card,Takeaway,4
+1924,2026-12-02,C290,Phoenix,Drinks & Sides,Mozzarella Sticks,1,7,7,Card,Takeaway,2
+1925,2026-12-03,C161,San Antonio,Pizza,BBQ Chicken Pizza,3,19,57,UPI,Dine In,5
+1926,2026-12-03,C252,Chicago,Pizza,Pepperoni Pizza,1,18,18,Cash,Takeaway,3
+1927,2026-12-04,C402,San Diego,Dessert,Chocolate Lava Cake,3,8,24,UPI,Dine In,4
+1928,2026-12-04,C509,Phoenix,Drinks & Sides,Mozzarella Sticks,2,7,14,Cash,Delivery,5
+1929,2026-12-04,C406,Los Angeles,Drinks & Sides,Chicken Wings,4,9,36,Card,Dine In,5
+1930,2026-12-05,C347,Houston,Drinks & Sides,Garlic Bread,1,6,6,UPI,Delivery,5
+1931,2026-12-05,C432,Los Angeles,Drinks & Sides,Chicken Wings,2,9,18,UPI,Dine In,3
+1932,2026-12-05,C423,New York,Drinks & Sides,Chicken Wings,1,9,9,Cash,Delivery,5
+1933,2026-12-06,C425,Houston,Drinks & Sides,Chicken Wings,1,9,9,Cash,Takeaway,5
+1934,2026-12-06,C296,Houston,Dessert,Apple Pie,1,6,6,Card,Delivery,4
+1935,2026-12-06,C420,San Antonio,Pizza,Margherita Pizza,3,15,45,Card,Delivery,4
+1936,2026-12-07,C282,San Jose,Pizza,Margherita Pizza,1,15,15,UPI,Takeaway,4
+1937,2026-12-07,C395,San Jose,Drinks & Sides,Iced Tea,3,3,9,UPI,Delivery,4
+1938,2026-12-08,C125,Dallas,Pizza,Pepperoni Pizza,2,18,36,Cash,Dine In,5
+1939,2026-12-08,C308,San Antonio,Dessert,Chocolate Lava Cake,1,8,8,Card,Delivery,4
+1940,2026-12-08,C428,San Jose,Pizza,Veggie Supreme Pizza,1,17,17,Card,Takeaway,4
+1941,2026-12-09,C428,Chicago,Dessert,Chocolate Lava Cake,2,8,16,Cash,Delivery,5
+1942,2026-12-09,C288,San Antonio,Drinks & Sides,Garlic Bread,3,6,18,Card,Takeaway,5
+1943,2026-12-09,C137,Los Angeles,Drinks & Sides,Mozzarella Sticks,1,7,7,Card,Dine In,2
+1944,2026-12-10,C504,Houston,Drinks & Sides,Chicken Wings,3,9,27,Cash,Delivery,2
+1945,2026-12-10,C135,Philadelphia,Drinks & Sides,Garlic Bread,2,6,12,UPI,Takeaway,4
+1946,2026-12-10,C464,Phoenix,Pizza,Margherita Pizza,3,15,45,Cash,Dine In,2
+1947,2026-12-11,C390,San Diego,Pizza,Pepperoni Pizza,1,18,18,UPI,Takeaway,5
+1948,2026-12-11,C366,Chicago,Pizza,Margherita Pizza,3,15,45,UPI,Dine In,5
+1949,2026-12-12,C498,Dallas,Pizza,BBQ Chicken Pizza,3,19,57,UPI,Dine In,4
+1950,2026-12-12,C361,San Jose,Pizza,BBQ Chicken Pizza,3,19,57,Cash,Delivery,4
+1951,2026-12-12,C155,San Jose,Pizza,Veggie Supreme Pizza,2,17,34,UPI,Dine In,5
+1952,2026-12-13,C202,Dallas,Drinks & Sides,Garlic Bread,2,6,12,Cash,Delivery,3
+1953,2026-12-13,C299,Los Angeles,Drinks & Sides,Coca Cola,3,3,9,Card,Delivery,5
+1954,2026-12-13,C110,Chicago,Drinks & Sides,Coca Cola,3,3,9,UPI,Dine In,3
+1955,2026-12-14,C141,Phoenix,Drinks & Sides,Coca Cola,3,3,9,UPI,Delivery,5
+1956,2026-12-14,C554,San Jose,Pizza,Veggie Supreme Pizza,4,17,68,UPI,Delivery,4
+1957,2026-12-14,C560,San Diego,Drinks & Sides,Coca Cola,2,3,6,Cash,Takeaway,2
+1958,2026-12-15,C244,San Jose,Pizza,Margherita Pizza,3,15,45,Card,Delivery,3
+1959,2026-12-15,C526,Phoenix,Dessert,Apple Pie,4,6,24,UPI,Delivery,5
+1960,2026-12-16,C208,Houston,Drinks & Sides,Coca Cola,2,3,6,UPI,Dine In,4
+1961,2026-12-16,C233,San Antonio,Drinks & Sides,Mozzarella Sticks,2,7,14,Card,Dine In,5
+1962,2026-12-16,C149,San Jose,Drinks & Sides,Coca Cola,2,3,6,Card,Dine In,3
+1963,2026-12-17,C123,Phoenix,Drinks & Sides,Coca Cola,3,3,9,UPI,Dine In,4
+1964,2026-12-17,C488,Los Angeles,Pizza,Margherita Pizza,3,15,45,Card,Delivery,1
+1965,2026-12-17,C479,San Jose,Drinks & Sides,Mozzarella Sticks,1,7,7,Card,Takeaway,5
+1966,2026-12-18,C504,Philadelphia,Pizza,Veggie Supreme Pizza,4,17,68,Cash,Delivery,5
+1967,2026-12-18,C346,Dallas,Drinks & Sides,Chicken Wings,3,9,27,UPI,Dine In,3
+1968,2026-12-18,C339,San Diego,Pizza,Pepperoni Pizza,1,18,18,Cash,Delivery,5
+1969,2026-12-19,C503,New York,Dessert,Apple Pie,1,6,6,Cash,Takeaway,5
+1970,2026-12-19,C265,San Antonio,Drinks & Sides,Iced Tea,3,3,9,UPI,Dine In,4
+1971,2026-12-20,C497,San Diego,Pizza,Pepperoni Pizza,4,18,72,Card,Delivery,5
+1972,2026-12-20,C176,Phoenix,Drinks & Sides,Coca Cola,4,3,12,Card,Delivery,5
+1973,2026-12-20,C259,Houston,Pizza,Pepperoni Pizza,2,18,36,UPI,Takeaway,5
+1974,2026-12-21,C414,Dallas,Drinks & Sides,Iced Tea,4,3,12,Cash,Dine In,4
+1975,2026-12-21,C271,Chicago,Drinks & Sides,Iced Tea,4,3,12,UPI,Dine In,5
+1976,2026-12-21,C197,Dallas,Pizza,Veggie Supreme Pizza,1,17,17,Card,Delivery,5
+1977,2026-12-22,C151,New York,Pizza,Pepperoni Pizza,1,18,18,Cash,Dine In,4
+1978,2026-12-22,C299,Chicago,Pizza,Margherita Pizza,2,15,30,UPI,Dine In,5
+1979,2026-12-22,C353,San Diego,Drinks & Sides,Chicken Wings,3,9,27,UPI,Delivery,4
+1980,2026-12-23,C172,San Diego,Drinks & Sides,Iced Tea,4,3,12,Card,Takeaway,5
+1981,2026-12-23,C363,Phoenix,Dessert,Chocolate Lava Cake,3,8,24,Card,Takeaway,1
+1982,2026-12-24,C179,Los Angeles,Dessert,Chocolate Lava Cake,2,8,16,UPI,Takeaway,4
+1983,2026-12-24,C211,Phoenix,Pizza,Veggie Supreme Pizza,4,17,68,Cash,Delivery,4
+1984,2026-12-24,C551,San Diego,Dessert,Apple Pie,4,6,24,Card,Dine In,4
+1985,2026-12-25,C595,Dallas,Drinks & Sides,Coca Cola,1,3,3,Cash,Dine In,4
+1986,2026-12-25,C439,Phoenix,Pizza,Pepperoni Pizza,4,18,72,UPI,Takeaway,4
+1987,2026-12-25,C128,Los Angeles,Dessert,Apple Pie,4,6,24,Card,Delivery,4
+1988,2026-12-26,C223,Dallas,Drinks & Sides,Iced Tea,1,3,3,Card,Takeaway,3
+1989,2026-12-26,C446,San Antonio,Pizza,Pepperoni Pizza,1,18,18,UPI,Dine In,4
+1990,2026-12-26,C489,Houston,Dessert,Apple Pie,1,6,6,UPI,Dine In,5
+1991,2026-12-27,C487,Philadelphia,Drinks & Sides,Chicken Wings,1,9,9,UPI,Takeaway,3
+1992,2026-12-27,C277,Phoenix,Pizza,BBQ Chicken Pizza,3,19,57,Cash,Dine In,4
+1993,2026-12-28,C133,Los Angeles,Dessert,Apple Pie,1,6,6,Card,Takeaway,3
+1994,2026-12-28,C296,San Diego,Drinks & Sides,Iced Tea,3,3,9,Cash,Dine In,5
+1995,2026-12-28,C260,San Diego,Drinks & Sides,Coca Cola,4,3,12,Cash,Takeaway,3
+1996,2026-12-29,C524,New York,Dessert,Chocolate Lava Cake,4,8,32,Card,Delivery,2
+1997,2026-12-29,C364,Philadelphia,Drinks & Sides,Mozzarella Sticks,1,7,7,Cash,Delivery,4
+1998,2026-12-29,C585,New York,Pizza,BBQ Chicken Pizza,2,19,38,UPI,Dine In,1
+1999,2026-12-30,C358,Philadelphia,Drinks & Sides,Coca Cola,4,3,12,Cash,Takeaway,5
+2000,2026-12-30,C169,Philadelphia,Pizza,Margherita Pizza,3,15,45,UPI,Dine In,4
